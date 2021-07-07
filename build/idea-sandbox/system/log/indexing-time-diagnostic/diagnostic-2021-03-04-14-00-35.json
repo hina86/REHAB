@@ -1,0 +1,1057 @@
+{
+  "appInfo" : {
+    "build" : "202.6397.94",
+    "buildDate" : "Mon, 27 Jul 2020 13:39:02 +0300",
+    "productCode" : "IC",
+    "generated" : "Thu, 4 Mar 2021 14:00:35 +0200",
+    "os" : "Windows 10 10.0",
+    "runtime" : "Oracle Corporation 1.8.0_251 1.8.0_251-b08"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 518979584,
+    "numberOfProcessors" : 4,
+    "maxNumberOfIndexingThreads" : 4,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "projectIndexingHistory" : {
+    "projectName" : "android-networking-retrofit",
+    "numberOfFileProviders" : 8,
+    "totalNumberOfFiles" : 1974,
+    "times" : {
+      "indexingTime" : "12 s 859 ms",
+      "scanFilesTime" : "7 s 349 ms",
+      "pushPropertiesTime" : "878 ms",
+      "indexExtensionsTime" : "< 1 ms",
+      "pushPropertiesStart" : "Thu, 4 Mar 2021 14:00:22 +0200",
+      "pushPropertiesEnd" : "Thu, 4 Mar 2021 14:00:23 +0200",
+      "scanFilesStart" : "Thu, 4 Mar 2021 14:00:23 +0200",
+      "scanFilesEnd" : "Thu, 4 Mar 2021 14:00:30 +0200",
+      "indexExtensionsStart" : "Thu, 4 Mar 2021 14:00:23 +0200",
+      "indexExtensionsEnd" : "Thu, 4 Mar 2021 14:00:23 +0200",
+      "indexingStart" : "Thu, 4 Mar 2021 14:00:22 +0200",
+      "indexingEnd" : "Thu, 4 Mar 2021 14:00:35 +0200"
+    },
+    "numberOfIndexingThreads" : 3,
+    "totalStatsPerFileType" : [ {
+      "fileType" : "JAVA",
+      "partOfTotalIndexingTime" : "43.7%",
+      "partOfTotalContentLoadingTime" : "46.1%",
+      "totalNumberOfFiles" : 761,
+      "totalFilesSize" : "7.03 MB",
+      "indexingSpeed" : "2.19 MB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Library 'Gradle: com.fasterxml.jackson.core:jackson-databind:2.9.8@jar'",
+        "numberOfFiles" : 419,
+        "totalFilesSize" : "3.93 MB",
+        "partOfTotalIndexingTimeOfThisFileType" : "56.6%"
+      }, {
+        "providerName" : "Library 'Gradle: com.fasterxml.jackson.core:jackson-core:2.9.8@jar'",
+        "numberOfFiles" : 102,
+        "totalFilesSize" : "1.49 MB",
+        "partOfTotalIndexingTimeOfThisFileType" : "17.2%"
+      }, {
+        "providerName" : "Module 'android-networking-retrofit.app'",
+        "numberOfFiles" : 16,
+        "totalFilesSize" : "17.18 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "8.1%"
+      }, {
+        "providerName" : "Library 'Gradle: com.squareup.okhttp3:okhttp:3.12.0@jar'",
+        "numberOfFiles" : 103,
+        "totalFilesSize" : "948.74 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "7.3%"
+      }, {
+        "providerName" : "Library 'Gradle: com.squareup.retrofit2:retrofit:2.5.0@jar'",
+        "numberOfFiles" : 48,
+        "totalFilesSize" : "195.98 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "6.1%"
+      }, {
+        "providerName" : "Library 'Gradle: com.fasterxml.jackson.core:jackson-annotations:2.9.8@jar'",
+        "numberOfFiles" : 44,
+        "totalFilesSize" : "185.52 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "3.2%"
+      }, {
+        "providerName" : "Library 'Gradle: com.squareup.okio:okio:1.15.0@jar'",
+        "numberOfFiles" : 29,
+        "totalFilesSize" : "268.1 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "1.5%"
+      } ]
+    }, {
+      "fileType" : "CLASS",
+      "partOfTotalIndexingTime" : "39.1%",
+      "partOfTotalContentLoadingTime" : "49.7%",
+      "totalNumberOfFiles" : 1146,
+      "totalFilesSize" : "5.39 MB",
+      "indexingSpeed" : "1.88 MB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Library 'Gradle: com.fasterxml.jackson.core:jackson-databind:2.9.8@jar'",
+        "numberOfFiles" : 624,
+        "totalFilesSize" : "3.53 MB",
+        "partOfTotalIndexingTimeOfThisFileType" : "49.2%"
+      }, {
+        "providerName" : "Library 'Gradle: com.squareup.retrofit2:retrofit:2.5.0@jar'",
+        "numberOfFiles" : 98,
+        "totalFilesSize" : "198.41 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "26.3%"
+      }, {
+        "providerName" : "Library 'Gradle: com.squareup.okhttp3:okhttp:3.12.0@jar'",
+        "numberOfFiles" : 205,
+        "totalFilesSize" : "725.96 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "11.2%"
+      }, {
+        "providerName" : "Library 'Gradle: com.fasterxml.jackson.core:jackson-core:2.9.8@jar'",
+        "numberOfFiles" : 107,
+        "totalFilesSize" : "660.16 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "8.0%"
+      }, {
+        "providerName" : "Library 'Gradle: com.fasterxml.jackson.core:jackson-annotations:2.9.8@jar'",
+        "numberOfFiles" : 68,
+        "totalFilesSize" : "113.4 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "3.2%"
+      }, {
+        "providerName" : "Library 'Gradle: com.squareup.okio:okio:1.15.0@jar'",
+        "numberOfFiles" : 44,
+        "totalFilesSize" : "161.1 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "2.0%"
+      } ]
+    }, {
+      "fileType" : "Kotlin",
+      "partOfTotalIndexingTime" : "5.9%",
+      "partOfTotalContentLoadingTime" : "< 1%",
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : "764 B",
+      "indexingSpeed" : "1.78 kB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Library 'Gradle: com.squareup.retrofit2:retrofit:2.5.0@jar'",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "764 B",
+        "partOfTotalIndexingTimeOfThisFileType" : "100.0%"
+      } ]
+    }, {
+      "fileType" : "XML",
+      "partOfTotalIndexingTime" : "5.4%",
+      "partOfTotalContentLoadingTime" : "2.4%",
+      "totalNumberOfFiles" : 15,
+      "totalFilesSize" : "31.03 kB",
+      "indexingSpeed" : "78.49 kB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Library 'Gradle: com.squareup.retrofit2:retrofit:2.5.0@jar'",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "3.43 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "48.2%"
+      }, {
+        "providerName" : "Module 'android-networking-retrofit.app'",
+        "numberOfFiles" : 9,
+        "totalFilesSize" : "10.19 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "38.8%"
+      }, {
+        "providerName" : "Library 'Gradle: com.fasterxml.jackson.core:jackson-databind:2.9.8@jar'",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "6.31 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "6.9%"
+      }, {
+        "providerName" : "Library 'Gradle: com.fasterxml.jackson.core:jackson-core:2.9.8@jar'",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "4.06 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "2.2%"
+      }, {
+        "providerName" : "Library 'Gradle: com.fasterxml.jackson.core:jackson-annotations:2.9.8@jar'",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "2.59 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "1.6%"
+      }, {
+        "providerName" : "Library 'Gradle: com.squareup.okhttp3:okhttp:3.12.0@jar'",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "2.47 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "1.2%"
+      }, {
+        "providerName" : "Library 'Gradle: com.squareup.okio:okio:1.15.0@jar'",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "1.98 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "1.1%"
+      } ]
+    }, {
+      "fileType" : "Markdown",
+      "partOfTotalIndexingTime" : "2.3%",
+      "partOfTotalContentLoadingTime" : "< 1%",
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : "29 B",
+      "indexingSpeed" : "170 B/s",
+      "biggestContributors" : [ {
+        "providerName" : "Module 'CLIENTS - Copy.android-networking-retrofit'",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "29 B",
+        "partOfTotalIndexingTimeOfThisFileType" : "100.0%"
+      } ]
+    }, {
+      "fileType" : "kotlin_module",
+      "partOfTotalIndexingTime" : "1.8%",
+      "partOfTotalContentLoadingTime" : "< 1%",
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : "48 B",
+      "indexingSpeed" : "363 B/s",
+      "biggestContributors" : [ {
+        "providerName" : "Library 'Gradle: com.squareup.retrofit2:retrofit:2.5.0@jar'",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "48 B",
+        "partOfTotalIndexingTimeOfThisFileType" : "100.0%"
+      } ]
+    }, {
+      "fileType" : "Groovy",
+      "partOfTotalIndexingTime" : "1.1%",
+      "partOfTotalContentLoadingTime" : "< 1%",
+      "totalNumberOfFiles" : 3,
+      "totalFilesSize" : "1.97 kB",
+      "indexingSpeed" : "24.08 kB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Module 'CLIENTS - Copy.android-networking-retrofit'",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : "691 B",
+        "partOfTotalIndexingTimeOfThisFileType" : "55.4%"
+      }, {
+        "providerName" : "Module 'android-networking-retrofit.app'",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "1.28 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "44.6%"
+      } ]
+    }, {
+      "fileType" : "Properties",
+      "partOfTotalIndexingTime" : "< 1%",
+      "partOfTotalContentLoadingTime" : "< 1%",
+      "totalNumberOfFiles" : 9,
+      "totalFilesSize" : "2.09 kB",
+      "indexingSpeed" : "105.14 kB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Library 'Gradle: com.fasterxml.jackson.core:jackson-databind:2.9.8@jar'",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "151 B",
+        "partOfTotalIndexingTimeOfThisFileType" : "44.1%"
+      }, {
+        "providerName" : "Module 'CLIENTS - Copy.android-networking-retrofit'",
+        "numberOfFiles" : 3,
+        "totalFilesSize" : "1.33 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "20.5%"
+      }, {
+        "providerName" : "Library 'Gradle: com.squareup.retrofit2:retrofit:2.5.0@jar'",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "115 B",
+        "partOfTotalIndexingTimeOfThisFileType" : "10.9%"
+      }, {
+        "providerName" : "Library 'Gradle: com.fasterxml.jackson.core:jackson-core:2.9.8@jar'",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "147 B",
+        "partOfTotalIndexingTimeOfThisFileType" : "6.6%"
+      }, {
+        "providerName" : "Library 'Gradle: com.squareup.okhttp3:okhttp:3.12.0@jar'",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "93 B",
+        "partOfTotalIndexingTimeOfThisFileType" : "6.4%"
+      }, {
+        "providerName" : "Library 'Gradle: com.fasterxml.jackson.core:jackson-annotations:2.9.8@jar'",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "154 B",
+        "partOfTotalIndexingTimeOfThisFileType" : "6.2%"
+      }, {
+        "providerName" : "Library 'Gradle: com.squareup.okio:okio:1.15.0@jar'",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "107 B",
+        "partOfTotalIndexingTimeOfThisFileType" : "5.3%"
+      } ]
+    }, {
+      "fileType" : "Manifest",
+      "partOfTotalIndexingTime" : "< 1%",
+      "partOfTotalContentLoadingTime" : "< 1%",
+      "totalNumberOfFiles" : 12,
+      "totalFilesSize" : "16.89 kB",
+      "indexingSpeed" : "1.53 MB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Library 'Gradle: com.fasterxml.jackson.core:jackson-databind:2.9.8@jar'",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : "11.38 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "49.0%"
+      }, {
+        "providerName" : "Library 'Gradle: com.squareup.retrofit2:retrofit:2.5.0@jar'",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : "290 B",
+        "partOfTotalIndexingTimeOfThisFileType" : "18.7%"
+      }, {
+        "providerName" : "Library 'Gradle: com.fasterxml.jackson.core:jackson-annotations:2.9.8@jar'",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : "1.63 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "11.5%"
+      }, {
+        "providerName" : "Library 'Gradle: com.fasterxml.jackson.core:jackson-core:2.9.8@jar'",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : "3.05 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "11.3%"
+      }, {
+        "providerName" : "Library 'Gradle: com.squareup.okhttp3:okhttp:3.12.0@jar'",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : "257 B",
+        "partOfTotalIndexingTimeOfThisFileType" : "5.3%"
+      }, {
+        "providerName" : "Library 'Gradle: com.squareup.okio:okio:1.15.0@jar'",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : "289 B",
+        "partOfTotalIndexingTimeOfThisFileType" : "4.2%"
+      } ]
+    }, {
+      "fileType" : "PLAIN_TEXT",
+      "partOfTotalIndexingTime" : "< 1%",
+      "partOfTotalContentLoadingTime" : "< 1%",
+      "totalNumberOfFiles" : 12,
+      "totalFilesSize" : "6.4 kB",
+      "indexingSpeed" : "966.02 kB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Library 'Gradle: com.fasterxml.jackson.core:jackson-databind:2.9.8@jar'",
+        "numberOfFiles" : 5,
+        "totalFilesSize" : "2.88 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "68.5%"
+      }, {
+        "providerName" : "Library 'Gradle: com.fasterxml.jackson.core:jackson-core:2.9.8@jar'",
+        "numberOfFiles" : 5,
+        "totalFilesSize" : "2.89 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "24.7%"
+      }, {
+        "providerName" : "Library 'Gradle: com.fasterxml.jackson.core:jackson-annotations:2.9.8@jar'",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : "634 B",
+        "partOfTotalIndexingTimeOfThisFileType" : "6.8%"
+      } ]
+    }, {
+      "fileType" : "ProGuard File",
+      "partOfTotalIndexingTime" : "< 1%",
+      "partOfTotalContentLoadingTime" : "< 1%",
+      "totalNumberOfFiles" : 5,
+      "totalFilesSize" : "3.37 kB",
+      "indexingSpeed" : "529.5 kB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Library 'Gradle: com.squareup.retrofit2:retrofit:2.5.0@jar'",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : "1.53 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "81.2%"
+      }, {
+        "providerName" : "Library 'Gradle: com.squareup.okhttp3:okhttp:3.12.0@jar'",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : "1.07 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "11.7%"
+      }, {
+        "providerName" : "Module 'android-networking-retrofit.app'",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "772 B",
+        "partOfTotalIndexingTimeOfThisFileType" : "7.0%"
+      } ]
+    }, {
+      "fileType" : "textmate",
+      "partOfTotalIndexingTime" : "< 1%",
+      "partOfTotalContentLoadingTime" : "< 1%",
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : "2.26 kB",
+      "indexingSpeed" : "751.8 kB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Module 'CLIENTS - Copy.android-networking-retrofit'",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "2.26 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "100.0%"
+      } ]
+    }, {
+      "fileType" : "GitIgnore file",
+      "partOfTotalIndexingTime" : "< 1%",
+      "partOfTotalContentLoadingTime" : "< 1%",
+      "totalNumberOfFiles" : 2,
+      "totalFilesSize" : "1.07 kB",
+      "indexingSpeed" : "1.1 MB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Module 'android-networking-retrofit.app'",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "8 B",
+        "partOfTotalIndexingTimeOfThisFileType" : "77.8%"
+      }, {
+        "providerName" : "Module 'CLIENTS - Copy.android-networking-retrofit'",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "1.07 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "22.2%"
+      } ]
+    }, {
+      "fileType" : "SPI",
+      "partOfTotalIndexingTime" : "< 1%",
+      "partOfTotalContentLoadingTime" : "< 1%",
+      "totalNumberOfFiles" : 4,
+      "totalFilesSize" : "166 B",
+      "indexingSpeed" : "180.83 kB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Library 'Gradle: com.fasterxml.jackson.core:jackson-core:2.9.8@jar'",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : "78 B",
+        "partOfTotalIndexingTimeOfThisFileType" : "51.7%"
+      }, {
+        "providerName" : "Library 'Gradle: com.fasterxml.jackson.core:jackson-databind:2.9.8@jar'",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : "88 B",
+        "partOfTotalIndexingTimeOfThisFileType" : "48.3%"
+      } ]
+    }, {
+      "fileType" : "Shell Script",
+      "partOfTotalIndexingTime" : "< 1%",
+      "partOfTotalContentLoadingTime" : "< 1%",
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : "5.47 kB",
+      "indexingSpeed" : "11.9 MB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Module 'CLIENTS - Copy.android-networking-retrofit'",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "5.47 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "100.0%"
+      } ]
+    } ],
+    "totalStatsPerIndexer" : [ {
+      "indexId" : "Stubs",
+      "partOfTotalIndexingTime" : "43.1%",
+      "totalNumberOfFiles" : 1191,
+      "totalFilesSize" : "5.44 MB",
+      "indexingSpeed" : "1.72 MB/s"
+    }, {
+      "indexId" : "IdIndex",
+      "partOfTotalIndexingTime" : "26.9%",
+      "totalNumberOfFiles" : 827,
+      "totalFilesSize" : "7.1 MB",
+      "indexingSpeed" : "3.6 MB/s"
+    }, {
+      "indexId" : "Trigram.Index",
+      "partOfTotalIndexingTime" : "15.3%",
+      "totalNumberOfFiles" : 827,
+      "totalFilesSize" : "7.1 MB",
+      "indexingSpeed" : "6.35 MB/s"
+    }, {
+      "indexId" : "bytecodeAnalysis",
+      "partOfTotalIndexingTime" : "6.5%",
+      "totalNumberOfFiles" : 1146,
+      "totalFilesSize" : "5.39 MB",
+      "indexingSpeed" : "11.32 MB/s"
+    }, {
+      "indexId" : "TodoIndex",
+      "partOfTotalIndexingTime" : "2.0%",
+      "totalNumberOfFiles" : 37,
+      "totalFilesSize" : "40.27 kB",
+      "indexingSpeed" : "269.76 kB/s"
+    }, {
+      "indexId" : "org.jetbrains.kotlin.idea.vfilefinder.KotlinModuleMappingIndex",
+      "partOfTotalIndexingTime" : "1.8%",
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : "48 B",
+      "indexingSpeed" : "369 B/s"
+    }, {
+      "indexId" : "com.android.tools.idea.model.AndroidManifestIndex$Companion$NAME$1.NAME",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : "842 B",
+      "indexingSpeed" : "16.57 kB/s"
+    }, {
+      "indexId" : "org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 1146,
+      "totalFilesSize" : "5.39 MB",
+      "indexingSpeed" : "107.71 MB/s"
+    }, {
+      "indexId" : "org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 1146,
+      "totalFilesSize" : "5.39 MB",
+      "indexingSpeed" : "111.92 MB/s"
+    }, {
+      "indexId" : "java.null.method.argument",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 16,
+      "totalFilesSize" : "17.18 kB",
+      "indexingSpeed" : "383.92 kB/s"
+    }, {
+      "indexId" : "DomFileIndex",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 15,
+      "totalFilesSize" : "31.03 kB",
+      "indexingSpeed" : "780.5 kB/s"
+    }, {
+      "indexId" : "java.binary.plus.expression",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 16,
+      "totalFilesSize" : "17.18 kB",
+      "indexingSpeed" : "704.61 kB/s"
+    }, {
+      "indexId" : "java.fun.expression",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 16,
+      "totalFilesSize" : "17.18 kB",
+      "indexingSpeed" : "1 MB/s"
+    }, {
+      "indexId" : "ant-imports",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 15,
+      "totalFilesSize" : "31.03 kB",
+      "indexingSpeed" : "2.1 MB/s"
+    }, {
+      "indexId" : "BindingXmlIndex",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : "421 B",
+      "indexingSpeed" : "39.76 kB/s"
+    }, {
+      "indexId" : "FrameworkDetectionIndex",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 9,
+      "totalFilesSize" : "10.19 kB",
+      "indexingSpeed" : "1.21 MB/s"
+    }, {
+      "indexId" : "fileIncludes",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 9,
+      "totalFilesSize" : "10.19 kB",
+      "indexingSpeed" : "1.23 MB/s"
+    }, {
+      "indexId" : "org.jetbrains.kotlin.idea.vfilefinder.KotlinJvmModuleAnnotationsIndex",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : "48 B",
+      "indexingSpeed" : "22.49 kB/s"
+    }, {
+      "indexId" : "IdeaPluginRegistrationIndex",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 15,
+      "totalFilesSize" : "31.03 kB",
+      "indexingSpeed" : "19.15 MB/s"
+    }, {
+      "indexId" : "xmlProperties",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 15,
+      "totalFilesSize" : "31.03 kB",
+      "indexingSpeed" : "32.44 MB/s"
+    }, {
+      "indexId" : "org.jetbrains.kotlin.idea.vfilefinder.KotlinPackageSourcesMemberNamesIndex",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : "764 B",
+      "indexingSpeed" : "816.24 kB/s"
+    }, {
+      "indexId" : "XsltSymbolIndex",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 9,
+      "totalFilesSize" : "10.19 kB",
+      "indexingSpeed" : "18.31 MB/s"
+    }, {
+      "indexId" : "RelaxSymbolIndex",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 9,
+      "totalFilesSize" : "10.19 kB",
+      "indexingSpeed" : "28.43 MB/s"
+    }, {
+      "indexId" : "PluginIdModuleIndex",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 15,
+      "totalFilesSize" : "31.03 kB",
+      "indexingSpeed" : "285.76 MB/s"
+    }, {
+      "indexId" : "PluginIdDependenciesIndex",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 15,
+      "totalFilesSize" : "31.03 kB",
+      "indexingSpeed" : "358.35 MB/s"
+    }, {
+      "indexId" : "devkit.ExtensionPointIndex",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 15,
+      "totalFilesSize" : "31.03 kB",
+      "indexingSpeed" : "382.18 MB/s"
+    } ],
+    "fileProviderStatistics" : [ {
+      "providerName" : "Library 'Gradle: com.fasterxml.jackson.core:jackson-databind:2.9.8@jar'",
+      "totalNumberOfFiles" : 1054,
+      "totalIndexingTime" : "2 s 197 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "JAVA",
+        "numberOfFiles" : 419,
+        "totalFilesSize" : "3.93 MB",
+        "partOfTotalIndexingTime" : "55.4%",
+        "partOfTotalContentLoadingTime" : "45.9%"
+      }, {
+        "fileType" : "CLASS",
+        "numberOfFiles" : 624,
+        "totalFilesSize" : "3.53 MB",
+        "partOfTotalIndexingTime" : "43.1%",
+        "partOfTotalContentLoadingTime" : "53.6%"
+      }, {
+        "fileType" : "XML",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "6.31 kB",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "< 1%"
+      }, {
+        "fileType" : "Properties",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "151 B",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "< 1%"
+      }, {
+        "fileType" : "Manifest",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : "11.38 kB",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "< 1%"
+      }, {
+        "fileType" : "PLAIN_TEXT",
+        "numberOfFiles" : 5,
+        "totalFilesSize" : "2.88 kB",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "< 1%"
+      }, {
+        "fileType" : "SPI",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : "88 B",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "< 1%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "IdIndex",
+        "partOfTotalIndexingTime" : "35.7%"
+      }, {
+        "indexId" : "Stubs",
+        "partOfTotalIndexingTime" : "34.4%"
+      }, {
+        "indexId" : "Trigram.Index",
+        "partOfTotalIndexingTime" : "20.3%"
+      }, {
+        "indexId" : "bytecodeAnalysis",
+        "partOfTotalIndexingTime" : "7.7%"
+      } ],
+      "fastIndexers" : [ "DomFileIndex", "IdeaPluginRegistrationIndex", "PluginIdDependenciesIndex", "PluginIdModuleIndex", "ant-imports", "devkit.ExtensionPointIndex", "org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex", "org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex", "xmlProperties" ]
+    }, {
+      "providerName" : "Library 'Gradle: com.squareup.retrofit2:retrofit:2.5.0@jar'",
+      "totalNumberOfFiles" : 154,
+      "totalIndexingTime" : "831 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "CLASS",
+        "numberOfFiles" : 98,
+        "totalFilesSize" : "198.41 kB",
+        "partOfTotalIndexingTime" : "44.1%",
+        "partOfTotalContentLoadingTime" : "42.1%"
+      }, {
+        "fileType" : "Kotlin",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "764 B",
+        "partOfTotalIndexingTime" : "25.1%",
+        "partOfTotalContentLoadingTime" : "< 1%"
+      }, {
+        "fileType" : "JAVA",
+        "numberOfFiles" : 48,
+        "totalFilesSize" : "195.98 kB",
+        "partOfTotalIndexingTime" : "11.5%",
+        "partOfTotalContentLoadingTime" : "44.9%"
+      }, {
+        "fileType" : "XML",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "3.43 kB",
+        "partOfTotalIndexingTime" : "11.1%",
+        "partOfTotalContentLoadingTime" : "5.4%"
+      }, {
+        "fileType" : "kotlin_module",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "48 B",
+        "partOfTotalIndexingTime" : "7.7%",
+        "partOfTotalContentLoadingTime" : "< 1%"
+      }, {
+        "fileType" : "ProGuard File",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : "1.53 kB",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "2.2%"
+      }, {
+        "fileType" : "Properties",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "115 B",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "3.7%"
+      }, {
+        "fileType" : "Manifest",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : "290 B",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "< 1%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "Stubs",
+        "partOfTotalIndexingTime" : "67.9%"
+      }, {
+        "indexId" : "IdIndex",
+        "partOfTotalIndexingTime" : "12.4%"
+      }, {
+        "indexId" : "org.jetbrains.kotlin.idea.vfilefinder.KotlinModuleMappingIndex",
+        "partOfTotalIndexingTime" : "7.6%"
+      }, {
+        "indexId" : "bytecodeAnalysis",
+        "partOfTotalIndexingTime" : "7.0%"
+      }, {
+        "indexId" : "Trigram.Index",
+        "partOfTotalIndexingTime" : "2.0%"
+      }, {
+        "indexId" : "DomFileIndex",
+        "partOfTotalIndexingTime" : "1.9%"
+      } ],
+      "fastIndexers" : [ "IdeaPluginRegistrationIndex", "PluginIdDependenciesIndex", "PluginIdModuleIndex", "ant-imports", "devkit.ExtensionPointIndex", "org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex", "org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex", "org.jetbrains.kotlin.idea.vfilefinder.KotlinJvmModuleAnnotationsIndex", "org.jetbrains.kotlin.idea.vfilefinder.KotlinPackageSourcesMemberNamesIndex", "xmlProperties" ]
+    }, {
+      "providerName" : "Library 'Gradle: com.fasterxml.jackson.core:jackson-core:2.9.8@jar'",
+      "totalNumberOfFiles" : 220,
+      "totalIndexingTime" : "517 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "JAVA",
+        "numberOfFiles" : 102,
+        "totalFilesSize" : "1.49 MB",
+        "partOfTotalIndexingTime" : "69.4%",
+        "partOfTotalContentLoadingTime" : "54.8%"
+      }, {
+        "fileType" : "CLASS",
+        "numberOfFiles" : 107,
+        "totalFilesSize" : "660.16 kB",
+        "partOfTotalIndexingTime" : "28.9%",
+        "partOfTotalContentLoadingTime" : "43.4%"
+      }, {
+        "fileType" : "XML",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "4.06 kB",
+        "partOfTotalIndexingTime" : "1.1%",
+        "partOfTotalContentLoadingTime" : "< 1%"
+      }, {
+        "fileType" : "PLAIN_TEXT",
+        "numberOfFiles" : 5,
+        "totalFilesSize" : "2.89 kB",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "< 1%"
+      }, {
+        "fileType" : "Properties",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "147 B",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "< 1%"
+      }, {
+        "fileType" : "Manifest",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : "3.05 kB",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "< 1%"
+      }, {
+        "fileType" : "SPI",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : "78 B",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "< 1%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "IdIndex",
+        "partOfTotalIndexingTime" : "37.0%"
+      }, {
+        "indexId" : "Trigram.Index",
+        "partOfTotalIndexingTime" : "33.2%"
+      }, {
+        "indexId" : "Stubs",
+        "partOfTotalIndexingTime" : "23.9%"
+      }, {
+        "indexId" : "bytecodeAnalysis",
+        "partOfTotalIndexingTime" : "4.7%"
+      } ],
+      "fastIndexers" : [ "DomFileIndex", "IdeaPluginRegistrationIndex", "PluginIdDependenciesIndex", "PluginIdModuleIndex", "ant-imports", "devkit.ExtensionPointIndex", "org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex", "org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex", "xmlProperties" ]
+    }, {
+      "providerName" : "Library 'Gradle: com.squareup.okhttp3:okhttp:3.12.0@jar'",
+      "totalNumberOfFiles" : 314,
+      "totalIndexingTime" : "406 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "CLASS",
+        "numberOfFiles" : 205,
+        "totalFilesSize" : "725.96 kB",
+        "partOfTotalIndexingTime" : "57.1%",
+        "partOfTotalContentLoadingTime" : "63.2%"
+      }, {
+        "fileType" : "JAVA",
+        "numberOfFiles" : 103,
+        "totalFilesSize" : "948.74 kB",
+        "partOfTotalIndexingTime" : "41.6%",
+        "partOfTotalContentLoadingTime" : "35.8%"
+      }, {
+        "fileType" : "XML",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "2.47 kB",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "< 1%"
+      }, {
+        "fileType" : "Properties",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "93 B",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "< 1%"
+      }, {
+        "fileType" : "ProGuard File",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : "1.07 kB",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "< 1%"
+      }, {
+        "fileType" : "Manifest",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : "257 B",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "< 1%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "Stubs",
+        "partOfTotalIndexingTime" : "47.8%"
+      }, {
+        "indexId" : "IdIndex",
+        "partOfTotalIndexingTime" : "25.9%"
+      }, {
+        "indexId" : "Trigram.Index",
+        "partOfTotalIndexingTime" : "16.2%"
+      }, {
+        "indexId" : "bytecodeAnalysis",
+        "partOfTotalIndexingTime" : "7.7%"
+      }, {
+        "indexId" : "org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex",
+        "partOfTotalIndexingTime" : "1.1%"
+      }, {
+        "indexId" : "org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex",
+        "partOfTotalIndexingTime" : "1.1%"
+      } ],
+      "fastIndexers" : [ "DomFileIndex", "IdeaPluginRegistrationIndex", "PluginIdDependenciesIndex", "PluginIdModuleIndex", "ant-imports", "devkit.ExtensionPointIndex", "xmlProperties" ]
+    }, {
+      "providerName" : "Module 'android-networking-retrofit.app'",
+      "totalNumberOfFiles" : 28,
+      "totalIndexingTime" : "240 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "JAVA",
+        "numberOfFiles" : 16,
+        "totalFilesSize" : "17.18 kB",
+        "partOfTotalIndexingTime" : "57.4%",
+        "partOfTotalContentLoadingTime" : "55.0%"
+      }, {
+        "fileType" : "XML",
+        "numberOfFiles" : 9,
+        "totalFilesSize" : "10.19 kB",
+        "partOfTotalIndexingTime" : "34.2%",
+        "partOfTotalContentLoadingTime" : "38.9%"
+      }, {
+        "fileType" : "Groovy",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "1.28 kB",
+        "partOfTotalIndexingTime" : "8.1%",
+        "partOfTotalContentLoadingTime" : "< 1%"
+      }, {
+        "fileType" : "GitIgnore file",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "8 B",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "3.3%"
+      }, {
+        "fileType" : "ProGuard File",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "772 B",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "2.6%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "Stubs",
+        "partOfTotalIndexingTime" : "38.1%"
+      }, {
+        "indexId" : "com.android.tools.idea.model.AndroidManifestIndex$Companion$NAME$1.NAME",
+        "partOfTotalIndexingTime" : "11.3%"
+      }, {
+        "indexId" : "java.null.method.argument",
+        "partOfTotalIndexingTime" : "10.0%"
+      }, {
+        "indexId" : "TodoIndex",
+        "partOfTotalIndexingTime" : "8.8%"
+      }, {
+        "indexId" : "IdIndex",
+        "partOfTotalIndexingTime" : "7.4%"
+      }, {
+        "indexId" : "Trigram.Index",
+        "partOfTotalIndexingTime" : "6.1%"
+      }, {
+        "indexId" : "java.binary.plus.expression",
+        "partOfTotalIndexingTime" : "5.4%"
+      }, {
+        "indexId" : "java.fun.expression",
+        "partOfTotalIndexingTime" : "3.8%"
+      }, {
+        "indexId" : "BindingXmlIndex",
+        "partOfTotalIndexingTime" : "2.4%"
+      }, {
+        "indexId" : "FrameworkDetectionIndex",
+        "partOfTotalIndexingTime" : "1.9%"
+      }, {
+        "indexId" : "fileIncludes",
+        "partOfTotalIndexingTime" : "1.8%"
+      }, {
+        "indexId" : "ant-imports",
+        "partOfTotalIndexingTime" : "1.2%"
+      }, {
+        "indexId" : "DomFileIndex",
+        "partOfTotalIndexingTime" : "1.2%"
+      } ],
+      "fastIndexers" : [ "IdeaPluginRegistrationIndex", "PluginIdDependenciesIndex", "PluginIdModuleIndex", "RelaxSymbolIndex", "XsltSymbolIndex", "devkit.ExtensionPointIndex", "xmlProperties" ]
+    }, {
+      "providerName" : "Module 'CLIENTS - Copy.android-networking-retrofit'",
+      "totalNumberOfFiles" : 9,
+      "totalIndexingTime" : "172 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "Markdown",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "29 B",
+        "partOfTotalIndexingTime" : "76.2%",
+        "partOfTotalContentLoadingTime" : "20.4%"
+      }, {
+        "fileType" : "Groovy",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : "691 B",
+        "partOfTotalIndexingTime" : "20.3%",
+        "partOfTotalContentLoadingTime" : "2.5%"
+      }, {
+        "fileType" : "Properties",
+        "numberOfFiles" : 3,
+        "totalFilesSize" : "1.33 kB",
+        "partOfTotalIndexingTime" : "1.8%",
+        "partOfTotalContentLoadingTime" : "32.9%"
+      }, {
+        "fileType" : "textmate",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "2.26 kB",
+        "partOfTotalIndexingTime" : "1.3%",
+        "partOfTotalContentLoadingTime" : "12.4%"
+      }, {
+        "fileType" : "Shell Script",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "5.47 kB",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "17.6%"
+      }, {
+        "fileType" : "GitIgnore file",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "1.07 kB",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "14.2%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "Stubs",
+        "partOfTotalIndexingTime" : "49.3%"
+      }, {
+        "indexId" : "TodoIndex",
+        "partOfTotalIndexingTime" : "49.1%"
+      } ],
+      "fastIndexers" : [ "IdIndex", "Trigram.Index" ]
+    }, {
+      "providerName" : "Library 'Gradle: com.fasterxml.jackson.core:jackson-annotations:2.9.8@jar'",
+      "totalNumberOfFiles" : 118,
+      "totalIndexingTime" : "135 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "JAVA",
+        "numberOfFiles" : 44,
+        "totalFilesSize" : "185.52 kB",
+        "partOfTotalIndexingTime" : "49.7%",
+        "partOfTotalContentLoadingTime" : "47.2%"
+      }, {
+        "fileType" : "CLASS",
+        "numberOfFiles" : 68,
+        "totalFilesSize" : "113.4 kB",
+        "partOfTotalIndexingTime" : "45.8%",
+        "partOfTotalContentLoadingTime" : "50.6%"
+      }, {
+        "fileType" : "XML",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "2.59 kB",
+        "partOfTotalIndexingTime" : "3.1%",
+        "partOfTotalContentLoadingTime" : "< 1%"
+      }, {
+        "fileType" : "Manifest",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : "1.63 kB",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "< 1%"
+      }, {
+        "fileType" : "Properties",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "154 B",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "< 1%"
+      }, {
+        "fileType" : "PLAIN_TEXT",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : "634 B",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "< 1%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "Stubs",
+        "partOfTotalIndexingTime" : "41.2%"
+      }, {
+        "indexId" : "IdIndex",
+        "partOfTotalIndexingTime" : "39.5%"
+      }, {
+        "indexId" : "Trigram.Index",
+        "partOfTotalIndexingTime" : "11.9%"
+      }, {
+        "indexId" : "bytecodeAnalysis",
+        "partOfTotalIndexingTime" : "5.2%"
+      } ],
+      "fastIndexers" : [ "DomFileIndex", "IdeaPluginRegistrationIndex", "PluginIdDependenciesIndex", "PluginIdModuleIndex", "ant-imports", "devkit.ExtensionPointIndex", "org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex", "org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex", "xmlProperties" ]
+    }, {
+      "providerName" : "Library 'Gradle: com.squareup.okio:okio:1.15.0@jar'",
+      "totalNumberOfFiles" : 77,
+      "totalIndexingTime" : "83 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "CLASS",
+        "numberOfFiles" : 44,
+        "totalFilesSize" : "161.1 kB",
+        "partOfTotalIndexingTime" : "51.9%",
+        "partOfTotalContentLoadingTime" : "43.8%"
+      }, {
+        "fileType" : "JAVA",
+        "numberOfFiles" : 29,
+        "totalFilesSize" : "268.1 kB",
+        "partOfTotalIndexingTime" : "42.9%",
+        "partOfTotalContentLoadingTime" : "53.0%"
+      }, {
+        "fileType" : "XML",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "1.98 kB",
+        "partOfTotalIndexingTime" : "3.9%",
+        "partOfTotalContentLoadingTime" : "1.4%"
+      }, {
+        "fileType" : "Properties",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "107 B",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "1.1%"
+      }, {
+        "fileType" : "Manifest",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : "289 B",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "< 1%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "Stubs",
+        "partOfTotalIndexingTime" : "42.7%"
+      }, {
+        "indexId" : "IdIndex",
+        "partOfTotalIndexingTime" : "32.3%"
+      }, {
+        "indexId" : "Trigram.Index",
+        "partOfTotalIndexingTime" : "12.0%"
+      }, {
+        "indexId" : "bytecodeAnalysis",
+        "partOfTotalIndexingTime" : "9.9%"
+      }, {
+        "indexId" : "org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex",
+        "partOfTotalIndexingTime" : "1.2%"
+      }, {
+        "indexId" : "org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex",
+        "partOfTotalIndexingTime" : "1.0%"
+      } ],
+      "fastIndexers" : [ "DomFileIndex", "IdeaPluginRegistrationIndex", "PluginIdDependenciesIndex", "PluginIdModuleIndex", "ant-imports", "devkit.ExtensionPointIndex", "xmlProperties" ]
+    } ]
+  }
+}

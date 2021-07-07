@@ -1,0 +1,93 @@
+{
+  "appInfo" : {
+    "build" : "202.6397.94",
+    "buildDate" : "Mon, 27 Jul 2020 13:39:14 +0300",
+    "productCode" : "IC",
+    "generated" : "Tue, 6 Jul 2021 13:57:37 +0300",
+    "os" : "Windows 10 10.0",
+    "runtime" : "Oracle Corporation 1.8.0_251 1.8.0_251-b08"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 518979584,
+    "numberOfProcessors" : 4,
+    "maxNumberOfIndexingThreads" : 4,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "projectIndexingHistory" : {
+    "projectName" : "android-networking-retrofit",
+    "numberOfFileProviders" : 1,
+    "totalNumberOfFiles" : 1,
+    "times" : {
+      "indexingTime" : "6 s 577 ms",
+      "scanFilesTime" : "5 s 823 ms",
+      "pushPropertiesTime" : "556 ms",
+      "indexExtensionsTime" : "1 ms",
+      "pushPropertiesStart" : "Tue, 6 Jul 2021 13:57:31 +0300",
+      "pushPropertiesEnd" : "Tue, 6 Jul 2021 13:57:31 +0300",
+      "scanFilesStart" : "Tue, 6 Jul 2021 13:57:31 +0300",
+      "scanFilesEnd" : "Tue, 6 Jul 2021 13:57:37 +0300",
+      "indexExtensionsStart" : "Tue, 6 Jul 2021 13:57:31 +0300",
+      "indexExtensionsEnd" : "Tue, 6 Jul 2021 13:57:31 +0300",
+      "indexingStart" : "Tue, 6 Jul 2021 13:57:31 +0300",
+      "indexingEnd" : "Tue, 6 Jul 2021 13:57:37 +0300"
+    },
+    "numberOfIndexingThreads" : 3,
+    "totalStatsPerFileType" : [ {
+      "fileType" : "JSHELL",
+      "partOfTotalIndexingTime" : "100.0%",
+      "partOfTotalContentLoadingTime" : "100.0%",
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : "0 B",
+      "indexingSpeed" : "0 B/s",
+      "biggestContributors" : [ {
+        "providerName" : "com.intellij.ide.scratch.ScratchFileServiceImpl$IndexSetContributor@651e16",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "0 B",
+        "partOfTotalIndexingTimeOfThisFileType" : "100.0%"
+      } ]
+    } ],
+    "totalStatsPerIndexer" : [ {
+      "indexId" : "TodoIndex",
+      "partOfTotalIndexingTime" : "47.3%",
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : "0 B",
+      "indexingSpeed" : "0 B/s"
+    }, {
+      "indexId" : "IdIndex",
+      "partOfTotalIndexingTime" : "34.3%",
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : "0 B",
+      "indexingSpeed" : "0 B/s"
+    }, {
+      "indexId" : "Trigram.Index",
+      "partOfTotalIndexingTime" : "18.4%",
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : "0 B",
+      "indexingSpeed" : "0 B/s"
+    } ],
+    "fileProviderStatistics" : [ {
+      "providerName" : "com.intellij.ide.scratch.ScratchFileServiceImpl$IndexSetContributor@651e16",
+      "totalNumberOfFiles" : 1,
+      "totalIndexingTime" : "118 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "JSHELL",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "0 B",
+        "partOfTotalIndexingTime" : "100.0%",
+        "partOfTotalContentLoadingTime" : "100.0%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "TodoIndex",
+        "partOfTotalIndexingTime" : "47.3%"
+      }, {
+        "indexId" : "IdIndex",
+        "partOfTotalIndexingTime" : "34.3%"
+      }, {
+        "indexId" : "Trigram.Index",
+        "partOfTotalIndexingTime" : "18.4%"
+      } ],
+      "fastIndexers" : [ ]
+    } ]
+  }
+}

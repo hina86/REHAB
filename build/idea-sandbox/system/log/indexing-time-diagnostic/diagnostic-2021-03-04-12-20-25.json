@@ -1,0 +1,102 @@
+{
+  "appInfo" : {
+    "build" : "202.6397.94",
+    "buildDate" : "Mon, 27 Jul 2020 13:39:52 +0300",
+    "productCode" : "IC",
+    "generated" : "Thu, 4 Mar 2021 12:20:25 +0200",
+    "os" : "Windows 10 10.0",
+    "runtime" : "Oracle Corporation 1.8.0_251 1.8.0_251-b08"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 518979584,
+    "numberOfProcessors" : 4,
+    "maxNumberOfIndexingThreads" : 4,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "projectIndexingHistory" : {
+    "projectName" : "getChromium-master",
+    "numberOfFileProviders" : 1,
+    "totalNumberOfFiles" : 1,
+    "times" : {
+      "indexingTime" : "323 ms",
+      "scanFilesTime" : "252 ms",
+      "pushPropertiesTime" : "43 ms",
+      "indexExtensionsTime" : "< 1 ms",
+      "pushPropertiesStart" : "Thu, 4 Mar 2021 12:20:24 +0200",
+      "pushPropertiesEnd" : "Thu, 4 Mar 2021 12:20:24 +0200",
+      "scanFilesStart" : "Thu, 4 Mar 2021 12:20:24 +0200",
+      "scanFilesEnd" : "Thu, 4 Mar 2021 12:20:25 +0200",
+      "indexExtensionsStart" : "Thu, 4 Mar 2021 12:20:24 +0200",
+      "indexExtensionsEnd" : "Thu, 4 Mar 2021 12:20:24 +0200",
+      "indexingStart" : "Thu, 4 Mar 2021 12:20:24 +0200",
+      "indexingEnd" : "Thu, 4 Mar 2021 12:20:25 +0200"
+    },
+    "numberOfIndexingThreads" : 3,
+    "totalStatsPerFileType" : [ {
+      "fileType" : "Groovy",
+      "partOfTotalIndexingTime" : "100.0%",
+      "partOfTotalContentLoadingTime" : "100.0%",
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : "552 B",
+      "indexingSpeed" : "41.93 kB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Module 'getChromium-master'",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "552 B",
+        "partOfTotalIndexingTimeOfThisFileType" : "100.0%"
+      } ]
+    } ],
+    "totalStatsPerIndexer" : [ {
+      "indexId" : "Stubs",
+      "partOfTotalIndexingTime" : "75.3%",
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : "552 B",
+      "indexingSpeed" : "55.66 kB/s"
+    }, {
+      "indexId" : "TodoIndex",
+      "partOfTotalIndexingTime" : "10.6%",
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : "552 B",
+      "indexingSpeed" : "396.67 kB/s"
+    }, {
+      "indexId" : "IdIndex",
+      "partOfTotalIndexingTime" : "7.1%",
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : "552 B",
+      "indexingSpeed" : "592.59 kB/s"
+    }, {
+      "indexId" : "Trigram.Index",
+      "partOfTotalIndexingTime" : "7.0%",
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : "552 B",
+      "indexingSpeed" : "597.53 kB/s"
+    } ],
+    "fileProviderStatistics" : [ {
+      "providerName" : "Module 'getChromium-master'",
+      "totalNumberOfFiles" : 1,
+      "totalIndexingTime" : "17 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "Groovy",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "552 B",
+        "partOfTotalIndexingTime" : "100.0%",
+        "partOfTotalContentLoadingTime" : "100.0%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "Stubs",
+        "partOfTotalIndexingTime" : "75.3%"
+      }, {
+        "indexId" : "TodoIndex",
+        "partOfTotalIndexingTime" : "10.6%"
+      }, {
+        "indexId" : "IdIndex",
+        "partOfTotalIndexingTime" : "7.1%"
+      }, {
+        "indexId" : "Trigram.Index",
+        "partOfTotalIndexingTime" : "7.0%"
+      } ],
+      "fastIndexers" : [ ]
+    } ]
+  }
+}

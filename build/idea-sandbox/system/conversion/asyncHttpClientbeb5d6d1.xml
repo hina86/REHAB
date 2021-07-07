@@ -1,0 +1,70 @@
+<conversion>
+  <applied-converters>
+    <converter id="kotlin-non-jvm-source-roots" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="android-sdk-library" />
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\asyncHttpClient\.idea\libraries\Gradle__com_android_support_loader_28_0_0_aar.xml" timestamp="1614004116059" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\asyncHttpClient\.idea\misc.xml" timestamp="1614160982979" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\asyncHttpClient\.idea\libraries\Gradle__javax_inject_javax_inject_1_jar.xml" timestamp="1605007708137" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\asyncHttpClient\.idea\libraries\Gradle__com_loopj_android_android_async_http_1_4_9_jar.xml" timestamp="1605007708042" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\asyncHttpClient\asyncHTTP.iml" timestamp="1605008012091" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\asyncHttpClient\.idea\libraries\Gradle__junit_junit_4_12_jar.xml" timestamp="1605007708179" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\asyncHttpClient\.idea\libraries\Gradle__com_android_support_support_compat_28_0_0_aar.xml" timestamp="1614004116094" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\asyncHttpClient\.idea\libraries\Gradle__com_android_support_print_28_0_0_aar.xml" timestamp="1614004116073" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\asyncHttpClient\.idea\jarRepositories.xml" timestamp="1614004075254" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\asyncHttpClient\.idea\libraries\Gradle__com_android_support_appcompat_v7_28_0_0_aar.xml" timestamp="1614004115988" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\asyncHttpClient\.idea\libraries\Gradle__com_android_support_localbroadcastmanager_28_0_0_aar.xml" timestamp="1614004116066" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\asyncHttpClient\.idea\libraries\Gradle__com_android_support_support_core_utils_28_0_0_aar.xml" timestamp="1614004116109" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\asyncHttpClient\.idea\runConfigurations.xml" timestamp="1614003757430" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\asyncHttpClient\.idea\libraries\Gradle__com_android_support_asynclayoutinflater_28_0_0_aar.xml" timestamp="1614004115995" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\asyncHttpClient\.idea\libraries\Gradle__com_android_support_documentfile_28_0_0_aar.xml" timestamp="1614004116032" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\asyncHttpClient\.idea\vcs.xml" timestamp="1614004075083" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\asyncHttpClient\.idea\libraries\Gradle__com_android_support_animated_vector_drawable_28_0_0_aar.xml" timestamp="1614004115978" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\asyncHttpClient\.idea\libraries\Gradle__com_squareup_javawriter_2_1_1_jar.xml" timestamp="1605007708077" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\asyncHttpClient\app\app.iml" timestamp="1605008012060" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\asyncHttpClient\.idea\libraries\Gradle__com_android_support_customview_28_0_0_aar.xml" timestamp="1614004116025" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\asyncHttpClient\.idea\libraries\Gradle__com_android_support_slidingpanelayout_28_0_0_aar.xml" timestamp="1614004116080" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\asyncHttpClient\.idea\gradle.xml" timestamp="1605007908402" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\asyncHttpClient\.idea\libraries\Gradle__com_android_support_collections_28_0_0_jar.xml" timestamp="1605007707102" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\asyncHttpClient\.idea\libraries\Gradle__com_android_support_support_core_ui_28_0_0_aar.xml" timestamp="1614004116101" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\asyncHttpClient\.idea\libraries\Gradle__android_arch_lifecycle_viewmodel_1_1_1_aar.xml" timestamp="1614004115965" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\asyncHttpClient\.idea\libraries\Gradle__com_google_code_findbugs_jsr305_2_0_1_jar.xml" timestamp="1605007708001" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\asyncHttpClient\.idea\libraries\Gradle__com_android_support_cursoradapter_28_0_0_aar.xml" timestamp="1614004116017" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\asyncHttpClient\.idea\libraries\Gradle__com_android_support_swiperefreshlayout_28_0_0_aar.xml" timestamp="1614004116130" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\asyncHttpClient\.idea\libraries\Gradle__android_arch_lifecycle_livedata_core_1_1_1_aar.xml" timestamp="1614004115943" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\asyncHttpClient\.idea\modules\asyncHttpClient.iml" timestamp="1613992803632" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\asyncHttpClient\.idea\libraries\Gradle__com_android_support_support_annotations_28_0_0_jar.xml" timestamp="1605007707532" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\asyncHttpClient\.idea\libraries\Gradle__com_android_support_support_fragment_28_0_0_aar.xml" timestamp="1614004116116" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\asyncHttpClient\.idea\libraries\Gradle__com_android_support_test_runner_1_0_2_aar.xml" timestamp="1614004116159" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\asyncHttpClient\.idea\modules.xml" timestamp="1614004075265" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\asyncHttpClient\.idea\libraries\Gradle__net_sf_kxml_kxml2_2_3_0_jar.xml" timestamp="1605007708206" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\asyncHttpClient\.idea\libraries\Gradle__com_android_support_viewpager_28_0_0_aar.xml" timestamp="1614004116173" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\asyncHttpClient\.idea\workspace.xml" timestamp="1614160982967" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\asyncHttpClient\.idea\libraries\Gradle__com_android_support_coordinatorlayout_28_0_0_aar.xml" timestamp="1614004116010" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\asyncHttpClient\.idea\libraries\Gradle__com_android_support_support_vector_drawable_28_0_0_aar.xml" timestamp="1614004116123" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\asyncHttpClient\.idea\libraries\Gradle__com_android_support_versionedparcelable_28_0_0_aar.xml" timestamp="1614004116166" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\asyncHttpClient\.idea\libraries\Gradle__com_android_support_interpolator_28_0_0_aar.xml" timestamp="1614004116050" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\asyncHttpClient\.idea\libraries\Gradle__com_google_code_gson_gson_2_8_5_jar.xml" timestamp="1605188437556" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\asyncHttpClient\.idea\modules\app\asyncHttpClient.app.iml" timestamp="1614004115905" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\asyncHttpClient\.idea\libraries\Gradle__android_arch_core_runtime_1_1_1_aar.xml" timestamp="1614004115915" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\asyncHttpClient\.idea\libraries\Gradle__com_android_support_drawerlayout_28_0_0_aar.xml" timestamp="1614004116040" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\asyncHttpClient\.idea\libraries\Gradle__cz_msebera_android_httpclient_4_3_6_jar.xml" timestamp="1605007708103" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\asyncHttpClient\.idea\libraries\Gradle__com_android_support_constraint_constraint_layout_1_1_3_aar.xml" timestamp="1614004116003" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\asyncHttpClient\.idea\libraries\Gradle__android_arch_lifecycle_runtime_1_1_1_aar.xml" timestamp="1614004115956" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\asyncHttpClient\.idea\libraries\Gradle__com_android_support_test_espresso_espresso_idling_resource_3_0_2_aar.xml" timestamp="1614004116144" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\asyncHttpClient\.idea\libraries\Gradle__android_arch_lifecycle_common_1_1_1_jar.xml" timestamp="1605007706913" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\asyncHttpClient\.idea\libraries\Gradle__com_android_support_constraint_constraint_layout_solver_1_1_3_jar.xml" timestamp="1605007707144" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\asyncHttpClient\.idea\compiler.xml" timestamp="1614004075245" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\asyncHttpClient\.idea\libraries\Gradle__com_android_support_test_monitor_1_0_2_aar.xml" timestamp="1614004116152" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\asyncHttpClient\.idea\libraries\Gradle__com_android_support_test_espresso_espresso_core_3_0_2_aar.xml" timestamp="1614004116137" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\asyncHttpClient\.idea\libraries\Gradle__android_arch_lifecycle_livedata_1_1_1_aar.xml" timestamp="1614004115928" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\asyncHttpClient\.idea\libraries\Gradle__android_arch_core_common_1_1_1_jar.xml" timestamp="1605007706868" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\asyncHttpClient\.idea\libraries\Gradle__org_hamcrest_hamcrest_core_1_3_jar.xml" timestamp="1605007708250" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\asyncHttpClient\.idea\libraries\Gradle__org_hamcrest_hamcrest_library_1_3_jar.xml" timestamp="1605007708299" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\asyncHttpClient\.idea\libraries\Gradle__org_hamcrest_hamcrest_integration_1_3_jar.xml" timestamp="1605007708277" />
+  </project-files>
+</conversion>

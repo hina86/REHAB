@@ -1,0 +1,71 @@
+<conversion>
+  <applied-converters>
+    <converter id="kotlin-non-jvm-source-roots" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="android-sdk-library" />
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\glide\.idea\libraries\Gradle__android_arch_lifecycle_livedata_1_1_1_aar.xml" timestamp="1614162300161" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\glide\.idea\libraries\Gradle__android_arch_lifecycle_viewmodel_1_1_1_aar.xml" timestamp="1614162300224" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\glide\.idea\libraries\Gradle__com_android_support_support_core_ui_28_0_0_aar.xml" timestamp="1614162300586" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\glide\.idea\libraries\Gradle__com_android_support_support_annotations_28_0_0_jar.xml" timestamp="1614162300522" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\glide\.idea\libraries\Gradle__com_github_bumptech_glide_gifdecoder_4_9_0_aar.xml" timestamp="1614162300957" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\glide\.idea\libraries\Gradle__android_arch_lifecycle_livedata_core_1_1_1_aar.xml" timestamp="1614162300185" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\glide\.idea\jarRepositories.xml" timestamp="1614162300077" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\glide\.idea\runConfigurations.xml" timestamp="1560324382000" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\glide\.idea\libraries\Gradle__com_android_support_support_vector_drawable_28_0_0_aar.xml" timestamp="1614162300661" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\glide\.idea\libraries\Gradle__com_android_support_slidingpanelayout_28_0_0_aar.xml" timestamp="1614162300501" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\glide\.idea\libraries\Gradle__com_android_support_versionedparcelable_28_0_0_aar.xml" timestamp="1614162300827" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\glide\.idea\libraries\Gradle__javax_inject_javax_inject_1_jar.xml" timestamp="1614162301229" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\glide\.idea\libraries\Gradle__com_android_support_interpolator_28_0_0_aar.xml" timestamp="1614162300435" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\glide\.idea\libraries\Gradle__android_arch_lifecycle_runtime_1_1_1_aar.xml" timestamp="1614162300202" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\glide\.idea\libraries\Gradle__com_android_support_constraint_constraint_layout_1_1_3_aar.xml" timestamp="1614162300328" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\glide\.idea\libraries\Gradle__com_android_support_print_28_0_0_aar.xml" timestamp="1614162300481" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\glide\.idea\misc.xml" timestamp="1614162167755" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\glide\.idea\libraries\Gradle__com_android_support_customview_28_0_0_aar.xml" timestamp="1614162300395" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\glide\.idea\libraries\Gradle__org_aspectj_aspectjrt_1_8_5_jar.xml" timestamp="1614162301286" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\glide\.idea\libraries\Gradle__com_android_support_drawerlayout_28_0_0_aar.xml" timestamp="1614162300423" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\glide\.idea\libraries\Gradle__org_hamcrest_hamcrest_library_1_3_jar.xml" timestamp="1614162301344" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\glide\.idea\libraries\Gradle__android_arch_core_runtime_1_1_1_aar.xml" timestamp="1614162300118" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\glide\.idea\libraries\Gradle__com_android_support_viewpager_28_0_0_aar.xml" timestamp="1614162300857" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\glide\.idea\libraries\Gradle__com_android_support_animated_vector_drawable_28_0_0_aar.xml" timestamp="1614162300254" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\glide\.idea\libraries\Gradle__com_google_code_findbugs_jsr305_2_0_1_jar.xml" timestamp="1614162301142" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\glide\.idea\libraries\Gradle__com_android_support_test_monitor_1_0_2_aar.xml" timestamp="1614162300773" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\glide\.idea\modules.xml" timestamp="1614162167802" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\glide\.idea\libraries\Gradle__com_android_support_support_compat_28_0_0_aar.xml" timestamp="1614162300567" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\glide\.idea\libraries\Gradle__com_android_support_support_fragment_28_0_0_aar.xml" timestamp="1614162300631" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\glide\app\app.iml" timestamp="1614162631657" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\glide\.idea\libraries\Gradle__com_android_support_test_runner_1_0_2_aar.xml" timestamp="1614162300802" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\glide\.idea\gradle.xml" timestamp="1614162545937" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\glide\.idea\libraries\Gradle__com_android_support_appcompat_v7_28_0_0_aar.xml" timestamp="1614162300274" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\glide\.idea\libraries\Gradle__com_android_support_asynclayoutinflater_28_0_0_aar.xml" timestamp="1614162300291" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\glide\.idea\libraries\Gradle__junit_junit_4_12_jar.xml" timestamp="1614162301248" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\glide\.idea\libraries\Gradle__com_github_bumptech_glide_glide_4_9_0_aar.xml" timestamp="1614162300983" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\glide\.idea\libraries\Gradle__com_android_support_loader_28_0_0_aar.xml" timestamp="1614162300449" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\glide\.idea\libraries\Gradle__android_arch_core_common_1_1_1_jar.xml" timestamp="1614162300100" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\glide\.idea\libraries\Gradle__com_jakewharton_hugo_hugo_runtime_1_2_1_aar.xml" timestamp="1614162301191" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\glide\.idea\workspace.xml" timestamp="1614163298072" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\glide\.idea\libraries\Gradle__com_android_support_localbroadcastmanager_28_0_0_aar.xml" timestamp="1614162300464" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\glide\.idea\libraries\Gradle__com_android_support_collections_28_0_0_jar.xml" timestamp="1614162300310" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\glide\.idea\libraries\Gradle__com_android_support_cursoradapter_28_0_0_aar.xml" timestamp="1614162300380" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\glide\.idea\libraries\Gradle__com_github_bumptech_glide_disklrucache_4_9_0_jar.xml" timestamp="1614162300944" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\glide\.idea\libraries\Gradle__com_jakewharton_hugo_hugo_annotations_1_2_1_jar.xml" timestamp="1614162301174" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\glide\.idea\libraries\Gradle__org_hamcrest_hamcrest_core_1_3_jar.xml" timestamp="1614162301303" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\glide\.idea\libraries\Gradle__com_android_support_coordinatorlayout_28_0_0_aar.xml" timestamp="1614162300364" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\glide\.idea\libraries\Gradle__com_android_support_test_espresso_espresso_idling_resource_3_0_2_aar.xml" timestamp="1614162300752" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\glide\.idea\libraries\Gradle__com_android_support_constraint_constraint_layout_solver_1_1_3_jar.xml" timestamp="1614162300348" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\glide\.idea\libraries\Gradle__com_squareup_javawriter_2_1_1_jar.xml" timestamp="1614162301208" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\glide\.idea\libraries\Gradle__com_android_support_test_espresso_espresso_core_3_0_2_aar.xml" timestamp="1614162300717" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\glide\.idea\vcs.xml" timestamp="1614162101836" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\glide\.idea\libraries\Gradle__com_android_support_swiperefreshlayout_28_0_0_aar.xml" timestamp="1614162300685" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\glide\.idea\libraries\Gradle__com_android_support_documentfile_28_0_0_aar.xml" timestamp="1614162300409" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\glide\.idea\libraries\Gradle__org_hamcrest_hamcrest_integration_1_3_jar.xml" timestamp="1614162301327" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\glide\glide.iml" timestamp="1614162631700" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\glide\.idea\libraries\Gradle__net_sf_kxml_kxml2_2_3_0_jar.xml" timestamp="1614162301271" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\glide\.idea\libraries\Gradle__com_android_support_support_core_utils_28_0_0_aar.xml" timestamp="1614162300610" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\glide\.idea\libraries\Gradle__com_github_bumptech_glide_annotations_4_9_0_jar.xml" timestamp="1614162300891" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\glide\.idea\libraries\Gradle__android_arch_lifecycle_common_1_1_1_jar.xml" timestamp="1614162300134" />
+  </project-files>
+</conversion>

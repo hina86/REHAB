@@ -1,0 +1,15 @@
+<conversion>
+  <applied-converters>
+    <converter id="kotlin-non-jvm-source-roots" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="android-sdk-library" />
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\anwar\Documents\Apps for Evaluation of plugin-fdroid\polaris-android-master\polaris-android-master\.idea\encodings.xml" timestamp="1614852484126" />
+    <file path="C:\Users\anwar\Documents\Apps for Evaluation of plugin-fdroid\polaris-android-master\polaris-android-master\.idea\misc.xml" timestamp="1614852484092" />
+    <file path="C:\Users\anwar\Documents\Apps for Evaluation of plugin-fdroid\polaris-android-master\polaris-android-master\.idea\gradle.xml" timestamp="1614852484164" />
+    <file path="C:\Users\anwar\Documents\Apps for Evaluation of plugin-fdroid\polaris-android-master\polaris-android-master\.idea\workspace.xml" timestamp="1614852988856" />
+  </project-files>
+</conversion>

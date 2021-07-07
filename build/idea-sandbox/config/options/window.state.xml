@@ -1,0 +1,25 @@
+<application>
+  <component name="DimensionService">
+    <size key="#com.intellij.internal.psiView.PsiViewerDialog.0.0.3840.1600" width="800" height="600" />
+  </component>
+  <component name="WindowManager">
+    <frame x="131" y="192" width="1484" height="982" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+    </layout>
+  </component>
+  <component name="WindowStateApplicationService">
+    <state x="568" y="159" key="FileChooserDialogImpl" timestamp="1614859217786">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="1703" y="364" key="FileChooserDialogImpl/-1920.0.1280.680/0.0.3840.1560" timestamp="1614854978549" />
+    <state x="568" y="159" key="FileChooserDialogImpl/0.0.1280.680" timestamp="1614859217786" />
+    <state x="710" y="271" key="FileChooserDialogImpl/0.0.1600.1160" timestamp="1614164234246" />
+    <state x="1703" y="364" key="FileChooserDialogImpl/0.0.3840.1560" timestamp="1614683338925" />
+  </component>
+</application>

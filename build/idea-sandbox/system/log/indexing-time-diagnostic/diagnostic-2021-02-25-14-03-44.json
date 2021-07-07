@@ -1,0 +1,141 @@
+{
+  "appInfo" : {
+    "build" : "202.6397.94",
+    "buildDate" : "Mon, 27 Jul 2020 13:39:21 +0300",
+    "productCode" : "IC",
+    "generated" : "Thu, 25 Feb 2021 14:03:44 +0200",
+    "os" : "Windows 10 10.0",
+    "runtime" : "Oracle Corporation 1.8.0_251 1.8.0_251-b08"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 518979584,
+    "numberOfProcessors" : 4,
+    "maxNumberOfIndexingThreads" : 4,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "projectIndexingHistory" : {
+    "projectName" : "android-networking-volley",
+    "numberOfFileProviders" : 3,
+    "totalNumberOfFiles" : 8,
+    "times" : {
+      "indexingTime" : "8 s 403 ms",
+      "scanFilesTime" : "7 s 57 ms",
+      "pushPropertiesTime" : "90 ms",
+      "indexExtensionsTime" : "1 ms",
+      "pushPropertiesStart" : "Thu, 25 Feb 2021 14:03:36 +0200",
+      "pushPropertiesEnd" : "Thu, 25 Feb 2021 14:03:36 +0200",
+      "scanFilesStart" : "Thu, 25 Feb 2021 14:03:36 +0200",
+      "scanFilesEnd" : "Thu, 25 Feb 2021 14:03:43 +0200",
+      "indexExtensionsStart" : "Thu, 25 Feb 2021 14:03:36 +0200",
+      "indexExtensionsEnd" : "Thu, 25 Feb 2021 14:03:36 +0200",
+      "indexingStart" : "Thu, 25 Feb 2021 14:03:36 +0200",
+      "indexingEnd" : "Thu, 25 Feb 2021 14:03:44 +0200"
+    },
+    "numberOfIndexingThreads" : 3,
+    "totalStatsPerFileType" : [ {
+      "fileType" : "textmate",
+      "partOfTotalIndexingTime" : "100.0%",
+      "partOfTotalContentLoadingTime" : "100.0%",
+      "totalNumberOfFiles" : 8,
+      "totalFilesSize" : "10.49 kB",
+      "indexingSpeed" : "73.11 kB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Module 'android-networking-volley'",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "2.26 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "73.6%"
+      }, {
+        "providerName" : "JDK 14",
+        "numberOfFiles" : 5,
+        "totalFilesSize" : "6.66 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "21.7%"
+      }, {
+        "providerName" : "com.intellij.javaee.ExternalResourcesRootsProvider@1613ea2",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : "1.57 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "4.7%"
+      } ]
+    } ],
+    "totalStatsPerIndexer" : [ {
+      "indexId" : "TodoIndex",
+      "partOfTotalIndexingTime" : "57.4%",
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : "2.26 kB",
+      "indexingSpeed" : "27.45 kB/s"
+    }, {
+      "indexId" : "Trigram.Index",
+      "partOfTotalIndexingTime" : "24.0%",
+      "totalNumberOfFiles" : 8,
+      "totalFilesSize" : "10.49 kB",
+      "indexingSpeed" : "304.14 kB/s"
+    }, {
+      "indexId" : "IdIndex",
+      "partOfTotalIndexingTime" : "18.6%",
+      "totalNumberOfFiles" : 8,
+      "totalFilesSize" : "10.49 kB",
+      "indexingSpeed" : "393.89 kB/s"
+    } ],
+    "fileProviderStatistics" : [ {
+      "providerName" : "JDK 14",
+      "totalNumberOfFiles" : 5,
+      "totalIndexingTime" : "1 s 21 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "textmate",
+        "numberOfFiles" : 5,
+        "totalFilesSize" : "6.66 kB",
+        "partOfTotalIndexingTime" : "100.0%",
+        "partOfTotalContentLoadingTime" : "100.0%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "Trigram.Index",
+        "partOfTotalIndexingTime" : "56.9%"
+      }, {
+        "indexId" : "IdIndex",
+        "partOfTotalIndexingTime" : "43.1%"
+      } ],
+      "fastIndexers" : [ ]
+    }, {
+      "providerName" : "Module 'android-networking-volley'",
+      "totalNumberOfFiles" : 1,
+      "totalIndexingTime" : "144 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "textmate",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "2.26 kB",
+        "partOfTotalIndexingTime" : "100.0%",
+        "partOfTotalContentLoadingTime" : "100.0%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "TodoIndex",
+        "partOfTotalIndexingTime" : "78.0%"
+      }, {
+        "indexId" : "Trigram.Index",
+        "partOfTotalIndexingTime" : "14.0%"
+      }, {
+        "indexId" : "IdIndex",
+        "partOfTotalIndexingTime" : "8.1%"
+      } ],
+      "fastIndexers" : [ ]
+    }, {
+      "providerName" : "com.intellij.javaee.ExternalResourcesRootsProvider@1613ea2",
+      "totalNumberOfFiles" : 2,
+      "totalIndexingTime" : "15 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "textmate",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : "1.57 kB",
+        "partOfTotalIndexingTime" : "100.0%",
+        "partOfTotalContentLoadingTime" : "100.0%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "IdIndex",
+        "partOfTotalIndexingTime" : "69.7%"
+      }, {
+        "indexId" : "Trigram.Index",
+        "partOfTotalIndexingTime" : "30.3%"
+      } ],
+      "fastIndexers" : [ ]
+    } ]
+  }
+}

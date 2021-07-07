@@ -1,0 +1,72 @@
+<conversion>
+  <applied-converters>
+    <converter id="kotlin-non-jvm-source-roots" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="android-sdk-library" />
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\android-networking-volley\.idea\libraries\Gradle__com_android_support_cursoradapter_28_0_0_aar.xml" timestamp="1614345114834" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\android-networking-volley\.idea\modules.xml" timestamp="1614345114740" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\android-networking-volley\.idea\libraries\Gradle__android_arch_lifecycle_livedata_core_1_1_1_aar.xml" timestamp="1614345114768" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\android-networking-volley\.idea\libraries\Gradle__com_android_support_print_28_0_0_aar.xml" timestamp="1614345114898" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\android-networking-volley\.idea\libraries\Gradle__com_android_support_asynclayoutinflater_28_0_0_aar.xml" timestamp="1614345114809" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\android-networking-volley\.idea\libraries\Gradle__android_arch_lifecycle_common_1_1_1_jar.xml" timestamp="1603458015697" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\android-networking-volley\.idea\libraries\Gradle__org_hamcrest_hamcrest_core_1_3_jar.xml" timestamp="1603458016872" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\android-networking-volley\.idea\libraries\Gradle__com_android_support_support_compat_28_0_0_aar.xml" timestamp="1614345114919" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\android-networking-volley\.idea\compiler.xml" timestamp="1614345056957" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\android-networking-volley\.idea\jarRepositories.xml" timestamp="1614345026653" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\android-networking-volley\.idea\libraries\Gradle__com_android_support_constraint_constraint_layout_1_1_3_aar.xml" timestamp="1614345114817" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\android-networking-volley\.idea\libraries\Gradle__android_arch_lifecycle_livedata_1_1_1_aar.xml" timestamp="1614345114759" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\android-networking-volley\.idea\libraries\Gradle__com_android_support_interpolator_28_0_0_aar.xml" timestamp="1614345114870" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\android-networking-volley\.idea\libraries\Gradle__com_android_support_localbroadcastmanager_28_0_0_aar.xml" timestamp="1614345114886" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\android-networking-volley\.idea\libraries\Gradle__android_arch_core_runtime_1_1_1_aar.xml" timestamp="1614345114749" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\android-networking-volley\.idea\libraries\Gradle__com_android_support_support_core_utils_28_0_0_aar.xml" timestamp="1614345114934" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\android-networking-volley\.idea\runConfigurations.xml" timestamp="1613394580821" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\android-networking-volley\app\app.iml" timestamp="1603458218479" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\android-networking-volley\.idea\libraries\Gradle__com_android_support_appcompat_v7_28_0_0_aar.xml" timestamp="1614345114801" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\android-networking-volley\.idea\libraries\Gradle__org_hamcrest_hamcrest_library_1_3_jar.xml" timestamp="1603458016921" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\android-networking-volley\.idea\libraries\Gradle__com_squareup_javawriter_2_1_1_jar.xml" timestamp="1603458016719" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\android-networking-volley\.idea\libraries\Gradle__com_android_support_test_espresso_espresso_core_3_0_2_aar.xml" timestamp="1614345114967" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\android-networking-volley\.idea\libraries\Gradle__com_android_support_viewpager_28_0_0_aar.xml" timestamp="1614345115008" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\android-networking-volley\.idea\libraries\Gradle__com_android_support_test_espresso_espresso_idling_resource_3_0_2_aar.xml" timestamp="1614345114975" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\android-networking-volley\volley.iml" timestamp="1603458218494" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\android-networking-volley\.idea\libraries\Gradle__com_android_support_loader_28_0_0_aar.xml" timestamp="1614345114878" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\android-networking-volley\.idea\libraries\Gradle__com_android_support_versionedparcelable_28_0_0_aar.xml" timestamp="1614345114999" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\android-networking-volley\.idea\libraries\Gradle__org_aspectj_aspectjrt_1_8_5_jar.xml" timestamp="1614345116518" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\android-networking-volley\.idea\modules\app\android-networking-volley.app.iml" timestamp="1614356952577" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\android-networking-volley\.idea\vcs.xml" timestamp="1613394580822" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\android-networking-volley\.idea\libraries\Gradle__android_arch_core_common_1_1_1_jar.xml" timestamp="1603458015663" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\android-networking-volley\.idea\libraries\Gradle__android_arch_lifecycle_runtime_1_1_1_aar.xml" timestamp="1614345114776" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\android-networking-volley\.idea\libraries\Gradle__com_android_support_drawerlayout_28_0_0_aar.xml" timestamp="1614345114862" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\android-networking-volley\.idea\libraries\Gradle__com_google_code_findbugs_jsr305_2_0_1_jar.xml" timestamp="1603458016349" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\android-networking-volley\.idea\libraries\Gradle__com_android_support_collections_28_0_0_jar.xml" timestamp="1603458015841" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\android-networking-volley\.idea\libraries\Gradle__com_jakewharton_hugo_hugo_annotations_1_2_1_jar.xml" timestamp="1614345116463" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\android-networking-volley\.idea\libraries\Gradle__com_android_support_support_core_ui_28_0_0_aar.xml" timestamp="1614345114927" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\android-networking-volley\.idea\libraries\Gradle__com_android_support_animated_vector_drawable_28_0_0_aar.xml" timestamp="1614345114792" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\android-networking-volley\.idea\libraries\Gradle__junit_junit_4_12_jar.xml" timestamp="1603458016802" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\android-networking-volley\.idea\libraries\Gradle__com_android_support_support_fragment_28_0_0_aar.xml" timestamp="1614345114943" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\android-networking-volley\.idea\libraries\Gradle__com_android_support_customview_28_0_0_aar.xml" timestamp="1614345114844" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\android-networking-volley\.idea\libraries\Gradle__org_hamcrest_hamcrest_integration_1_3_jar.xml" timestamp="1603458016897" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\android-networking-volley\.idea\libraries\Gradle__android_arch_lifecycle_viewmodel_1_1_1_aar.xml" timestamp="1614345114784" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\android-networking-volley\.idea\libraries\Gradle__net_sf_kxml_kxml2_2_3_0_jar.xml" timestamp="1603458016846" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\android-networking-volley\.idea\libraries\Gradle__com_android_support_support_vector_drawable_28_0_0_aar.xml" timestamp="1614345114951" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\android-networking-volley\.idea\libraries\Gradle__com_android_support_constraint_constraint_layout_solver_1_1_3_jar.xml" timestamp="1603458015880" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\android-networking-volley\.idea\misc.xml" timestamp="1614356952629" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\android-networking-volley\android-networking-volley.iml" timestamp="1603458218456" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\android-networking-volley\.idea\libraries\Gradle__com_jakewharton_hugo_hugo_runtime_1_2_1_aar.xml" timestamp="1614345116496" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\android-networking-volley\.idea\libraries\Gradle__com_android_support_slidingpanelayout_28_0_0_aar.xml" timestamp="1614345114908" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\android-networking-volley\.idea\libraries\Gradle__com_android_support_coordinatorlayout_28_0_0_aar.xml" timestamp="1614345114825" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\android-networking-volley\.idea\modules\CLIENTS - Copy.android-networking-volley.iml" timestamp="1614345114697" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\android-networking-volley\.idea\libraries\Gradle__com_android_support_test_monitor_1_0_2_aar.xml" timestamp="1614345114983" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\android-networking-volley\.idea\libraries\Gradle__com_android_support_documentfile_28_0_0_aar.xml" timestamp="1614345114853" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\android-networking-volley\.idea\workspace.xml" timestamp="1614345065944" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\android-networking-volley\.idea\libraries\Gradle__javax_inject_javax_inject_1_jar.xml" timestamp="1603458016755" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\android-networking-volley\.idea\libraries\Gradle__com_android_volley_volley_1_1_1_aar.xml" timestamp="1614345116254" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\android-networking-volley\.idea\gradle.xml" timestamp="1603458176717" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\android-networking-volley\.idea\libraries\Gradle__com_android_support_test_runner_1_0_2_aar.xml" timestamp="1614345114991" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\android-networking-volley\.idea\libraries\Gradle__com_android_support_swiperefreshlayout_28_0_0_aar.xml" timestamp="1614345114959" />
+    <file path="C:\Users\anwar\Documents\CLIENTS - Copy\android-networking-volley\.idea\libraries\Gradle__com_android_support_support_annotations_28_0_0_jar.xml" timestamp="1603458016051" />
+  </project-files>
+</conversion>

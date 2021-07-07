@@ -1,0 +1,129 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <data>
+      <entry key="$Copy">
+        <ActionSummary times="13" last="1614678779542" />
+      </entry>
+      <entry key="$Paste">
+        <ActionSummary times="1" last="1614257110078" />
+      </entry>
+      <entry key="$SearchWeb">
+        <ActionSummary times="2" last="1614855195467" />
+      </entry>
+      <entry key="$Undo">
+        <ActionSummary times="11" last="1614164215265" />
+      </entry>
+      <entry key="CheckForUpdate">
+        <ActionSummary times="2" last="1614852852056" />
+      </entry>
+      <entry key="CloseProject">
+        <ActionSummary times="35" last="1614859205243" />
+      </entry>
+      <entry key="EditorBackSpace">
+        <ActionSummary times="65" last="1614859456659" />
+      </entry>
+      <entry key="EditorChooseLookupItem">
+        <ActionSummary times="7" last="1613679493882" />
+      </entry>
+      <entry key="EditorCopy">
+        <ActionSummary times="12" last="1614853198073" />
+      </entry>
+      <entry key="EditorCut">
+        <ActionSummary times="3" last="1614855465494" />
+      </entry>
+      <entry key="EditorDown">
+        <ActionSummary times="7" last="1613679416956" />
+      </entry>
+      <entry key="EditorEnter">
+        <ActionSummary times="17" last="1614855467605" />
+      </entry>
+      <entry key="EditorLeft">
+        <ActionSummary times="1" last="1614164192030" />
+      </entry>
+      <entry key="EditorPaste">
+        <ActionSummary times="12" last="1614855468042" />
+      </entry>
+      <entry key="EditorRight">
+        <ActionSummary times="3" last="1614164191080" />
+      </entry>
+      <entry key="ExternalSystem.ProjectRefreshAction">
+        <ActionSummary times="54" last="1614856199352" />
+      </entry>
+      <entry key="Find">
+        <ActionSummary times="1" last="1614684316897" />
+      </entry>
+      <entry key="GotoDeclaration">
+        <ActionSummary times="5" last="1614686307938" />
+      </entry>
+      <entry key="HideAllWindows">
+        <ActionSummary times="13" last="1614673900472" />
+      </entry>
+      <entry key="JShell.Console">
+        <ActionSummary times="1" last="1613986184238" />
+      </entry>
+      <entry key="OpenFile">
+        <ActionSummary times="1" last="1613675340236" />
+      </entry>
+      <entry key="PsiViewer">
+        <ActionSummary times="1" last="1614257099760" />
+      </entry>
+      <entry key="PsiViewerForContext">
+        <ActionSummary times="3" last="1614689200313" />
+      </entry>
+      <entry key="QuickDocCopy">
+        <ActionSummary times="1" last="1614682933493" />
+      </entry>
+      <entry key="SaveAll">
+        <ActionSummary times="1" last="1613992621260" />
+      </entry>
+      <entry key="ShowIntentionActions">
+        <ActionSummary times="5" last="1614686289982" />
+      </entry>
+      <entry key="ShowSettings">
+        <ActionSummary times="1" last="1614852864893" />
+      </entry>
+      <entry key="ToggleLineBreakpoint">
+        <ActionSummary times="5" last="1614242238388" />
+      </entry>
+      <entry key="WelcomeScreen.OpenProject">
+        <ActionSummary times="37" last="1614859208176" />
+      </entry>
+      <entry key="com.intellij.diagnostic.WindowsDefenderFixAction">
+        <ActionSummary times="119" last="1625571789782" />
+      </entry>
+      <entry key="com.intellij.diff.tools.util.base.TextDiffViewerUtil$ComboBoxSettingAction$MyAction">
+        <ActionSummary times="1" last="1613679541689" />
+      </entry>
+      <entry key="com.intellij.dvcs.ui.BranchActionGroupPopup$MoreAction">
+        <ActionSummary times="1" last="1613991590013" />
+      </entry>
+      <entry key="com.intellij.ide.lightEdit.actions.LightEditExitAction">
+        <ActionSummary times="1" last="1613685182763" />
+      </entry>
+      <entry key="com.intellij.notification.NotificationAction$Simple">
+        <ActionSummary times="10" last="1614855591656" />
+      </entry>
+      <entry key="com.intellij.openapi.editor.impl.EditorMarkupModelImpl$StatusAction">
+        <ActionSummary times="14" last="1614854942378" />
+      </entry>
+      <entry key="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+        <ActionSummary times="19" last="1614855362209" />
+      </entry>
+      <entry key="com.intellij.openapi.updateSettings.impl.UpdateSettingsConfigurable$UpdatesSettingsPanel$1">
+        <ActionSummary times="1" last="1614852883089" />
+      </entry>
+      <entry key="com.intellij.ui.CommonActionsPanel$EditButton">
+        <ActionSummary times="2" last="1614855601736" />
+      </entry>
+      <entry key="git4idea.ui.branch.GitBranchPopupActions$LocalBranchActions$CheckoutAction">
+        <ActionSummary times="14" last="1625570905797" />
+      </entry>
+      <entry key="git4idea.ui.branch.GitBranchPopupActions$RemoteBranchActions$CheckoutRemoteBranchAction">
+        <ActionSummary times="28" last="1614004039025" />
+      </entry>
+      <entry key="org.intellij.sdk.codeInspection.Actions_DetectTPL">
+        <ActionSummary times="16" last="1625571803659" />
+      </entry>
+    </data>
+  </component>
+</application>

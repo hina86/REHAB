@@ -1,0 +1,41 @@
+<conversion>
+  <applied-converters>
+    <converter id="kotlin-non-jvm-source-roots" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="android-sdk-library" />
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\anwar\Documents\Apps for Evaluation of plugin-fdroid\getChromium-master\getChromium-master\.idea\modules\app\getChromium-master.app.iml" timestamp="1614855481167" />
+    <file path="C:\Users\anwar\Documents\Apps for Evaluation of plugin-fdroid\getChromium-master\getChromium-master\.idea\libraries\Gradle__com_android_support_appcompat_v7_25_0_0_aar.xml" timestamp="1614855260566" />
+    <file path="C:\Users\anwar\Documents\Apps for Evaluation of plugin-fdroid\getChromium-master\getChromium-master\.idea\libraries\Gradle__com_android_support_constraint_constraint_layout_solver_1_0_2_jar.xml" timestamp="1614855260598" />
+    <file path="C:\Users\anwar\Documents\Apps for Evaluation of plugin-fdroid\getChromium-master\getChromium-master\.idea\modules.xml" timestamp="1614853073026" />
+    <file path="C:\Users\anwar\Documents\Apps for Evaluation of plugin-fdroid\getChromium-master\getChromium-master\.idea\runConfigurations.xml" timestamp="1525232877000" />
+    <file path="C:\Users\anwar\Documents\Apps for Evaluation of plugin-fdroid\getChromium-master\getChromium-master\.idea\libraries\Gradle__com_android_support_support_fragment_25_0_0_aar.xml" timestamp="1614855260707" />
+    <file path="C:\Users\anwar\Documents\Apps for Evaluation of plugin-fdroid\getChromium-master\getChromium-master\.idea\libraries\Gradle__com_android_support_recyclerview_v7_25_0_0_aar.xml" timestamp="1614855260651" />
+    <file path="C:\Users\anwar\Documents\Apps for Evaluation of plugin-fdroid\getChromium-master\getChromium-master\.idea\modules\getChromium-master.iml" timestamp="1614853072991" />
+    <file path="C:\Users\anwar\Documents\Apps for Evaluation of plugin-fdroid\getChromium-master\getChromium-master\.idea\libraries\Gradle__com_android_support_transition_25_0_0_aar.xml" timestamp="1614855260751" />
+    <file path="C:\Users\anwar\Documents\Apps for Evaluation of plugin-fdroid\getChromium-master\getChromium-master\.idea\vcs.xml" timestamp="1614855619823" />
+    <file path="C:\Users\anwar\Documents\Apps for Evaluation of plugin-fdroid\getChromium-master\getChromium-master\.idea\libraries\Gradle__com_android_volley_volley_1_0_0_aar.xml" timestamp="1614853073061" />
+    <file path="C:\Users\anwar\Documents\Apps for Evaluation of plugin-fdroid\getChromium-master\getChromium-master\.idea\libraries\Gradle__com_android_support_support_v4_25_0_0_aar.xml" timestamp="1614855260729" />
+    <file path="C:\Users\anwar\Documents\Apps for Evaluation of plugin-fdroid\getChromium-master\getChromium-master\.idea\libraries\Gradle__com_android_support_support_annotations_25_0_0_jar.xml" timestamp="1614855260662" />
+    <file path="C:\Users\anwar\Documents\Apps for Evaluation of plugin-fdroid\getChromium-master\getChromium-master\.idea\libraries\Gradle__com_android_support_support_core_utils_25_0_0_aar.xml" timestamp="1614855260695" />
+    <file path="C:\Users\anwar\Documents\Apps for Evaluation of plugin-fdroid\getChromium-master\getChromium-master\.idea\libraries\Gradle__com_android_support_support_vector_drawable_25_0_0_aar.xml" timestamp="1614855260741" />
+    <file path="C:\Users\anwar\Documents\Apps for Evaluation of plugin-fdroid\getChromium-master\getChromium-master\.idea\libraries\Gradle__com_android_support_support_core_ui_25_0_0_aar.xml" timestamp="1614855260683" />
+    <file path="C:\Users\anwar\Documents\Apps for Evaluation of plugin-fdroid\getChromium-master\getChromium-master\.idea\libraries\Gradle__com_android_support_preference_v7_25_0_0_aar.xml" timestamp="1614855260639" />
+    <file path="C:\Users\anwar\Documents\Apps for Evaluation of plugin-fdroid\getChromium-master\getChromium-master\.idea\libraries\Gradle__org_hamcrest_hamcrest_core_1_3_jar.xml" timestamp="1614853073091" />
+    <file path="C:\Users\anwar\Documents\Apps for Evaluation of plugin-fdroid\getChromium-master\getChromium-master\.idea\libraries\Gradle__com_android_support_constraint_constraint_layout_1_0_2_aar.xml" timestamp="1614855260582" />
+    <file path="C:\Users\anwar\Documents\Apps for Evaluation of plugin-fdroid\getChromium-master\getChromium-master\.idea\gradle.xml" timestamp="1614853034124" />
+    <file path="C:\Users\anwar\Documents\Apps for Evaluation of plugin-fdroid\getChromium-master\getChromium-master\.idea\libraries\Gradle__com_android_support_preference_v14_25_0_0_aar.xml" timestamp="1614855260627" />
+    <file path="C:\Users\anwar\Documents\Apps for Evaluation of plugin-fdroid\getChromium-master\getChromium-master\.idea\libraries\Gradle__com_android_support_support_media_compat_25_0_0_aar.xml" timestamp="1614855260718" />
+    <file path="C:\Users\anwar\Documents\Apps for Evaluation of plugin-fdroid\getChromium-master\getChromium-master\.idea\misc.xml" timestamp="1614853169617" />
+    <file path="C:\Users\anwar\Documents\Apps for Evaluation of plugin-fdroid\getChromium-master\getChromium-master\.idea\libraries\Gradle__junit_junit_4_12_jar.xml" timestamp="1614853073074" />
+    <file path="C:\Users\anwar\Documents\Apps for Evaluation of plugin-fdroid\getChromium-master\getChromium-master\.idea\libraries\Gradle__com_android_support_support_compat_25_0_0_aar.xml" timestamp="1614855260673" />
+    <file path="C:\Users\anwar\Documents\Apps for Evaluation of plugin-fdroid\getChromium-master\getChromium-master\.idea\workspace.xml" timestamp="1614855619805" />
+    <file path="C:\Users\anwar\Documents\Apps for Evaluation of plugin-fdroid\getChromium-master\getChromium-master\.idea\libraries\Gradle__com_android_support_animated_vector_drawable_25_0_0_aar.xml" timestamp="1614855260549" />
+    <file path="C:\Users\anwar\Documents\Apps for Evaluation of plugin-fdroid\getChromium-master\getChromium-master\.idea\jarRepositories.xml" timestamp="1614855260511" />
+    <file path="C:\Users\anwar\Documents\Apps for Evaluation of plugin-fdroid\getChromium-master\getChromium-master\.idea\libraries\Gradle__com_android_support_design_25_0_0_aar.xml" timestamp="1614855260612" />
+    <file path="C:\Users\anwar\Documents\Apps for Evaluation of plugin-fdroid\getChromium-master\getChromium-master\.idea\compiler.xml" timestamp="1614853047912" />
+  </project-files>
+</conversion>

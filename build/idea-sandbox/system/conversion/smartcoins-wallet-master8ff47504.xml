@@ -1,0 +1,14 @@
+<conversion>
+  <applied-converters>
+    <converter id="kotlin-non-jvm-source-roots" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="android-sdk-library" />
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\anwar\Documents\Apps for Evaluation of plugin-fdroid\smartcoins-wallet-master\smartcoins-wallet-master\.idea\misc.xml" timestamp="1614848324662" />
+    <file path="C:\Users\anwar\Documents\Apps for Evaluation of plugin-fdroid\smartcoins-wallet-master\smartcoins-wallet-master\.idea\gradle.xml" timestamp="1614848795891" />
+    <file path="C:\Users\anwar\Documents\Apps for Evaluation of plugin-fdroid\smartcoins-wallet-master\smartcoins-wallet-master\.idea\workspace.xml" timestamp="1614848324632" />
+  </project-files>
+</conversion>

@@ -1,0 +1,366 @@
+{
+  "appInfo" : {
+    "build" : "202.6397.94",
+    "buildDate" : "Mon, 27 Jul 2020 13:39:03 +0300",
+    "productCode" : "IC",
+    "generated" : "Thu, 4 Mar 2021 10:57:59 +0200",
+    "os" : "Windows 10 10.0",
+    "runtime" : "Oracle Corporation 1.8.0_251 1.8.0_251-b08"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 518979584,
+    "numberOfProcessors" : 4,
+    "maxNumberOfIndexingThreads" : 4,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "projectIndexingHistory" : {
+    "projectName" : "smartcoins-wallet-master",
+    "numberOfFileProviders" : 1,
+    "totalNumberOfFiles" : 309,
+    "times" : {
+      "indexingTime" : "2 s 759 ms",
+      "scanFilesTime" : "335 ms",
+      "pushPropertiesTime" : "262 ms",
+      "indexExtensionsTime" : "< 1 ms",
+      "pushPropertiesStart" : "Thu, 4 Mar 2021 10:57:57 +0200",
+      "pushPropertiesEnd" : "Thu, 4 Mar 2021 10:57:57 +0200",
+      "scanFilesStart" : "Thu, 4 Mar 2021 10:57:57 +0200",
+      "scanFilesEnd" : "Thu, 4 Mar 2021 10:57:57 +0200",
+      "indexExtensionsStart" : "Thu, 4 Mar 2021 10:57:57 +0200",
+      "indexExtensionsEnd" : "Thu, 4 Mar 2021 10:57:57 +0200",
+      "indexingStart" : "Thu, 4 Mar 2021 10:57:57 +0200",
+      "indexingEnd" : "Thu, 4 Mar 2021 10:57:59 +0200"
+    },
+    "numberOfIndexingThreads" : 3,
+    "totalStatsPerFileType" : [ {
+      "fileType" : "XML",
+      "partOfTotalIndexingTime" : "52.2%",
+      "partOfTotalContentLoadingTime" : "51.9%",
+      "totalNumberOfFiles" : 141,
+      "totalFilesSize" : "1.16 MB",
+      "indexingSpeed" : "678.47 kB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Module 'smartcoins-wallet-master'",
+        "numberOfFiles" : 141,
+        "totalFilesSize" : "1.16 MB",
+        "partOfTotalIndexingTimeOfThisFileType" : "100.0%"
+      } ]
+    }, {
+      "fileType" : "JAVA",
+      "partOfTotalIndexingTime" : "13.8%",
+      "partOfTotalContentLoadingTime" : "42.9%",
+      "totalNumberOfFiles" : 150,
+      "totalFilesSize" : "1.03 MB",
+      "indexingSpeed" : "2.29 MB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Module 'smartcoins-wallet-master'",
+        "numberOfFiles" : 150,
+        "totalFilesSize" : "1.03 MB",
+        "partOfTotalIndexingTimeOfThisFileType" : "100.0%"
+      } ]
+    }, {
+      "fileType" : "Groovy",
+      "partOfTotalIndexingTime" : "11.2%",
+      "partOfTotalContentLoadingTime" : "1.3%",
+      "totalNumberOfFiles" : 6,
+      "totalFilesSize" : "8.97 kB",
+      "indexingSpeed" : "24.36 kB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Module 'smartcoins-wallet-master'",
+        "numberOfFiles" : 6,
+        "totalFilesSize" : "8.97 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "100.0%"
+      } ]
+    }, {
+      "fileType" : "Markdown",
+      "partOfTotalIndexingTime" : "11.2%",
+      "partOfTotalContentLoadingTime" : "< 1%",
+      "totalNumberOfFiles" : 2,
+      "totalFilesSize" : "4.21 kB",
+      "indexingSpeed" : "11.51 kB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Module 'smartcoins-wallet-master'",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : "4.21 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "100.0%"
+      } ]
+    }, {
+      "fileType" : "PLAIN_TEXT",
+      "partOfTotalIndexingTime" : "7.3%",
+      "partOfTotalContentLoadingTime" : "1.5%",
+      "totalNumberOfFiles" : 2,
+      "totalFilesSize" : "348.63 kB",
+      "indexingSpeed" : "1.45 MB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Module 'smartcoins-wallet-master'",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : "348.63 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "100.0%"
+      } ]
+    }, {
+      "fileType" : "Properties",
+      "partOfTotalIndexingTime" : "2.0%",
+      "partOfTotalContentLoadingTime" : "< 1%",
+      "totalNumberOfFiles" : 3,
+      "totalFilesSize" : "2.16 kB",
+      "indexingSpeed" : "33.23 kB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Module 'smartcoins-wallet-master'",
+        "numberOfFiles" : 3,
+        "totalFilesSize" : "2.16 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "100.0%"
+      } ]
+    }, {
+      "fileType" : "Shell Script",
+      "partOfTotalIndexingTime" : "< 1%",
+      "partOfTotalContentLoadingTime" : "< 1%",
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : "4.97 kB",
+      "indexingSpeed" : "189.99 kB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Module 'smartcoins-wallet-master'",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "4.97 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "100.0%"
+      } ]
+    }, {
+      "fileType" : "GitIgnore file",
+      "partOfTotalIndexingTime" : "< 1%",
+      "partOfTotalContentLoadingTime" : "< 1%",
+      "totalNumberOfFiles" : 2,
+      "totalFilesSize" : "547 B",
+      "indexingSpeed" : "28.51 kB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Module 'smartcoins-wallet-master'",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : "547 B",
+        "partOfTotalIndexingTimeOfThisFileType" : "100.0%"
+      } ]
+    }, {
+      "fileType" : "ProGuard File",
+      "partOfTotalIndexingTime" : "< 1%",
+      "partOfTotalContentLoadingTime" : "< 1%",
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : "658 B",
+      "indexingSpeed" : "34.79 kB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Module 'smartcoins-wallet-master'",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "658 B",
+        "partOfTotalIndexingTimeOfThisFileType" : "100.0%"
+      } ]
+    }, {
+      "fileType" : "textmate",
+      "partOfTotalIndexingTime" : "< 1%",
+      "partOfTotalContentLoadingTime" : "< 1%",
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : "2.4 kB",
+      "indexingSpeed" : "240.41 kB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Module 'smartcoins-wallet-master'",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "2.4 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "100.0%"
+      } ]
+    } ],
+    "totalStatsPerIndexer" : [ {
+      "indexId" : "TodoIndex",
+      "partOfTotalIndexingTime" : "35.9%",
+      "totalNumberOfFiles" : 309,
+      "totalFilesSize" : "2.57 MB",
+      "indexingSpeed" : "2.18 MB/s"
+    }, {
+      "indexId" : "Stubs",
+      "partOfTotalIndexingTime" : "21.6%",
+      "totalNumberOfFiles" : 152,
+      "totalFilesSize" : "1.18 MB",
+      "indexingSpeed" : "1.66 MB/s"
+    }, {
+      "indexId" : "IdIndex",
+      "partOfTotalIndexingTime" : "11.1%",
+      "totalNumberOfFiles" : 309,
+      "totalFilesSize" : "2.57 MB",
+      "indexingSpeed" : "7.07 MB/s"
+    }, {
+      "indexId" : "Trigram.Index",
+      "partOfTotalIndexingTime" : "10.2%",
+      "totalNumberOfFiles" : 309,
+      "totalFilesSize" : "2.57 MB",
+      "indexingSpeed" : "7.7 MB/s"
+    }, {
+      "indexId" : "fileIncludes",
+      "partOfTotalIndexingTime" : "7.6%",
+      "totalNumberOfFiles" : 141,
+      "totalFilesSize" : "1.16 MB",
+      "indexingSpeed" : "4.66 MB/s"
+    }, {
+      "indexId" : "DomFileIndex",
+      "partOfTotalIndexingTime" : "5.1%",
+      "totalNumberOfFiles" : 141,
+      "totalFilesSize" : "1.16 MB",
+      "indexingSpeed" : "6.99 MB/s"
+    }, {
+      "indexId" : "BindingXmlIndex",
+      "partOfTotalIndexingTime" : "2.3%",
+      "totalNumberOfFiles" : 47,
+      "totalFilesSize" : "247.9 kB",
+      "indexingSpeed" : "3.31 MB/s"
+    }, {
+      "indexId" : "RelaxSymbolIndex",
+      "partOfTotalIndexingTime" : "1.9%",
+      "totalNumberOfFiles" : 141,
+      "totalFilesSize" : "1.16 MB",
+      "indexingSpeed" : "18.88 MB/s"
+    }, {
+      "indexId" : "com.android.tools.idea.model.AndroidManifestIndex$Companion$NAME$1.NAME",
+      "partOfTotalIndexingTime" : "1.2%",
+      "totalNumberOfFiles" : 4,
+      "totalFilesSize" : "5.51 kB",
+      "indexingSpeed" : "142.98 kB/s"
+    }, {
+      "indexId" : "xmlProperties",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 141,
+      "totalFilesSize" : "1.16 MB",
+      "indexingSpeed" : "43.72 MB/s"
+    }, {
+      "indexId" : "ant-imports",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 141,
+      "totalFilesSize" : "1.16 MB",
+      "indexingSpeed" : "45.69 MB/s"
+    }, {
+      "indexId" : "XsltSymbolIndex",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 141,
+      "totalFilesSize" : "1.16 MB",
+      "indexingSpeed" : "46.87 MB/s"
+    }, {
+      "indexId" : "FrameworkDetectionIndex",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 141,
+      "totalFilesSize" : "1.16 MB",
+      "indexingSpeed" : "52.34 MB/s"
+    }, {
+      "indexId" : "IdeaPluginRegistrationIndex",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 141,
+      "totalFilesSize" : "1.16 MB",
+      "indexingSpeed" : "339.45 MB/s"
+    }, {
+      "indexId" : "PluginIdDependenciesIndex",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 141,
+      "totalFilesSize" : "1.16 MB",
+      "indexingSpeed" : "1.11 GB/s"
+    }, {
+      "indexId" : "PluginIdModuleIndex",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 141,
+      "totalFilesSize" : "1.16 MB",
+      "indexingSpeed" : "1.41 GB/s"
+    }, {
+      "indexId" : "devkit.ExtensionPointIndex",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 141,
+      "totalFilesSize" : "1.16 MB",
+      "indexingSpeed" : "1.75 GB/s"
+    } ],
+    "fileProviderStatistics" : [ {
+      "providerName" : "Module 'smartcoins-wallet-master'",
+      "totalNumberOfFiles" : 309,
+      "totalIndexingTime" : "2 s 128 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "XML",
+        "numberOfFiles" : 141,
+        "totalFilesSize" : "1.16 MB",
+        "partOfTotalIndexingTime" : "52.2%",
+        "partOfTotalContentLoadingTime" : "51.9%"
+      }, {
+        "fileType" : "JAVA",
+        "numberOfFiles" : 150,
+        "totalFilesSize" : "1.03 MB",
+        "partOfTotalIndexingTime" : "13.8%",
+        "partOfTotalContentLoadingTime" : "42.9%"
+      }, {
+        "fileType" : "Groovy",
+        "numberOfFiles" : 6,
+        "totalFilesSize" : "8.97 kB",
+        "partOfTotalIndexingTime" : "11.2%",
+        "partOfTotalContentLoadingTime" : "1.3%"
+      }, {
+        "fileType" : "Markdown",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : "4.21 kB",
+        "partOfTotalIndexingTime" : "11.2%",
+        "partOfTotalContentLoadingTime" : "< 1%"
+      }, {
+        "fileType" : "PLAIN_TEXT",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : "348.63 kB",
+        "partOfTotalIndexingTime" : "7.3%",
+        "partOfTotalContentLoadingTime" : "1.5%"
+      }, {
+        "fileType" : "Properties",
+        "numberOfFiles" : 3,
+        "totalFilesSize" : "2.16 kB",
+        "partOfTotalIndexingTime" : "2.0%",
+        "partOfTotalContentLoadingTime" : "< 1%"
+      }, {
+        "fileType" : "Shell Script",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "4.97 kB",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "< 1%"
+      }, {
+        "fileType" : "GitIgnore file",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : "547 B",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "< 1%"
+      }, {
+        "fileType" : "ProGuard File",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "658 B",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "< 1%"
+      }, {
+        "fileType" : "textmate",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "2.4 kB",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "< 1%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "TodoIndex",
+        "partOfTotalIndexingTime" : "35.9%"
+      }, {
+        "indexId" : "Stubs",
+        "partOfTotalIndexingTime" : "21.6%"
+      }, {
+        "indexId" : "IdIndex",
+        "partOfTotalIndexingTime" : "11.1%"
+      }, {
+        "indexId" : "Trigram.Index",
+        "partOfTotalIndexingTime" : "10.2%"
+      }, {
+        "indexId" : "fileIncludes",
+        "partOfTotalIndexingTime" : "7.6%"
+      }, {
+        "indexId" : "DomFileIndex",
+        "partOfTotalIndexingTime" : "5.1%"
+      }, {
+        "indexId" : "BindingXmlIndex",
+        "partOfTotalIndexingTime" : "2.3%"
+      }, {
+        "indexId" : "RelaxSymbolIndex",
+        "partOfTotalIndexingTime" : "1.9%"
+      }, {
+        "indexId" : "com.android.tools.idea.model.AndroidManifestIndex$Companion$NAME$1.NAME",
+        "partOfTotalIndexingTime" : "1.2%"
+      } ],
+      "fastIndexers" : [ "FrameworkDetectionIndex", "IdeaPluginRegistrationIndex", "PluginIdDependenciesIndex", "PluginIdModuleIndex", "XsltSymbolIndex", "ant-imports", "devkit.ExtensionPointIndex", "xmlProperties" ]
+    } ]
+  }
+}

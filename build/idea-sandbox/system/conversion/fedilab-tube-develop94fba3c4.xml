@@ -1,0 +1,14 @@
+<conversion>
+  <applied-converters>
+    <converter id="kotlin-non-jvm-source-roots" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="android-sdk-library" />
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\anwar\Documents\Apps for Evaluation of plugin-fdroid\fedilab-tube-develop\fedilab-tube-develop\.idea\workspace.xml" timestamp="1614856089238" />
+    <file path="C:\Users\anwar\Documents\Apps for Evaluation of plugin-fdroid\fedilab-tube-develop\fedilab-tube-develop\.idea\misc.xml" timestamp="1614856089278" />
+    <file path="C:\Users\anwar\Documents\Apps for Evaluation of plugin-fdroid\fedilab-tube-develop\fedilab-tube-develop\.idea\gradle.xml" timestamp="1614859197100" />
+  </project-files>
+</conversion>

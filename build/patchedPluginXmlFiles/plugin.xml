@@ -1,0 +1,31 @@
+<idea-plugin>
+  <version>2.0.0</version>
+  <idea-version since-build="202" until-build="202.*"/>
+  <id>org.intellij.sdk.codeInspection</id>
+  <name>SDK: Comparing References Inspection Sample</name>
+  <depends>com.intellij.modules.java</depends>
+  <description>
+        
+      Demonstrates implementing a Local Inspection Tool.&lt;br&gt; Adds entries to
+      &lt;b&gt;tool | Third-party HTTP libraries &lt;/b&gt;.
+    
+    </description>
+  <change-notes>
+        
+      &lt;ul&gt;
+        &lt;li&gt;&lt;b&gt;2.0.0&lt;/b&gt; Convert to Gradle-based plugin.&lt;/li&gt;
+        &lt;li&gt;&lt;b&gt;1.1.0&lt;/b&gt; Refactor resources, register this inspection.&lt;/li&gt;
+        &lt;li&gt;&lt;b&gt;1.0.0&lt;/b&gt; Release 2018.3 and earlier.&lt;/li&gt;
+      &lt;/ul&gt;
+    
+    </change-notes>
+  <vendor url="https://plugins.jetbrains.com">IntelliJ Platform SDK</vendor>
+  <actions>
+    <action id="org.intellij.sdk.codeInspection.Actions_DetectTPL" class="org.intellij.sdk.codeInspection.Actions_DetectTPL" text="REHAB - Detect Third-party Libraries">
+      <add-to-group group-id="ToolsMenu" anchor="last"/>
+    </action>
+  </actions>
+  <extensions defaultExtensionNs="com.intellij">
+    <toolWindow id="REHAB" secondary="true" icon="AllIcons.General.Modified" anchor="right" factoryClass="org.intellij.sdk.toolWindow.MyToolWindowFactory"/>
+  </extensions>
+</idea-plugin>

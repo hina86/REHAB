@@ -1,0 +1,8 @@
+<project>
+  <component name="ExternalProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CLIENTS - Copy.android-networking-retrofit.iml" filepath="$PROJECT_DIR$/.idea/modules/CLIENTS - Copy.android-networking-retrofit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android-networking-retrofit.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android-networking-retrofit.app.iml" />
+    </modules>
+  </component>
+</project>

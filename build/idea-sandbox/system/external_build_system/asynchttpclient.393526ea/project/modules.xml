@@ -1,0 +1,8 @@
+<project>
+  <component name="ExternalProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CLIENTS - Copy.asyncHttpClient.iml" filepath="$PROJECT_DIR$/.idea/modules/CLIENTS - Copy.asyncHttpClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/asyncHttpClient.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/asyncHttpClient.app.iml" />
+    </modules>
+  </component>
+</project>

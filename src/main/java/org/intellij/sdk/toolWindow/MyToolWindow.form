@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="org.intellij.sdk.toolWindow.MyToolWindow">
+  <grid id="27dc6" binding="myToolWindowContent" layout-manager="GridBagLayout">
+    <constraints>
+      <xy x="278" y="20" width="270" height="800"/>
+    </constraints>
+    <properties>
+      <minimumSize width="154" height="600"/>
+    </properties>
+    <border type="none"/>
+    <children>
+      <scrollpane id="78746" binding="scrollPanel">
+        <constraints>
+          <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="7" hsize-policy="0" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+          <gridbag weightx="1.0" weighty="1.0"/>
+        </constraints>
+        <properties>
+          <preferredSize width="270" height="1000"/>
+        </properties>
+        <border type="none"/>
+        <children>
+          <grid id="986bb" binding="panel" layout-manager="GridBagLayout">
+            <constraints/>
+            <properties>
+              <minimumSize width="200" height="1000"/>
+              <preferredSize width="270" height="1000"/>
+            </properties>
+            <border type="none"/>
+            <children>
+              <component id="45a51" class="javax.swing.JLabel">
+                <constraints>
+                  <grid row="0" column="0" row-span="1" col-span="3" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+                  <gridbag top="2" left="2" bottom="2" right="2" weightx="1.0" weighty="0.0"/>
+                </constraints>
+                <properties>
+                  <maximumSize width="200" height="16"/>
+                  <text value="Detected Third-party Libraries"/>
+                  <toolTipText value="List of detected third-party library(ies) matched against the whitelist."/>
+                </properties>
+              </component>
+              <grid id="33d5a" binding="libraryBox" layout-manager="GridLayoutManager" row-count="2" column-count="1" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+                <margin top="0" left="0" bottom="0" right="0"/>
+                <constraints>
+                  <grid row="1" column="0" row-span="1" col-span="3" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+                  <gridbag weightx="1.0" weighty="0.0"/>
+                </constraints>
+                <properties/>
+                <border type="line"/>
+                <children>
+                  <component id="796a8" class="javax.swing.JLabel" binding="libraryLabel">
+                    <constraints>
+                      <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+                    </constraints>
+                    <properties>
+                      <name value=""/>
+                      <text value="No libraries found"/>
+                      <visible value="false"/>
+                    </properties>
+                  </component>
+                  <scrollpane id="5248a">
+                    <constraints>
+                      <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="7" hsize-policy="7" anchor="1" fill="1" indent="0" use-parent-layout="false">
+                        <minimum-size width="200" height="100"/>
+                        <preferred-size width="200" height="100"/>
+                      </grid>
+                    </constraints>
+                    <properties/>
+                    <border type="none"/>
+                    <children>
+                      <component id="32231" class="javax.swing.JList" binding="libraryList">
+                        <constraints/>
+                        <properties>
+                          <visible value="true"/>
+                        </properties>
+                      </component>
+                    </children>
+                  </scrollpane>
+                </children>
+              </grid>
+              <component id="caeab" class="javax.swing.JLabel">
+                <constraints>
+                  <grid row="2" column="0" row-span="1" col-span="3" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+                  <gridbag top="2" left="2" bottom="2" right="2" weightx="1.0" weighty="0.0"/>
+                </constraints>
+                <properties>
+                  <maximumSize width="200" height="16"/>
+                  <minimumSize width="200" height="16"/>
+                  <text value="Method Definitions"/>
+                  <toolTipText value="List of method definitions detected in code for selected third-party libraries "/>
+                </properties>
+              </component>
+              <grid id="7bcb8" binding="methodBox" layout-manager="GridLayoutManager" row-count="1" column-count="1" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+                <margin top="0" left="0" bottom="0" right="0"/>
+                <constraints>
+                  <grid row="3" column="0" row-span="1" col-span="3" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+                  <gridbag weightx="1.0" weighty="0.0"/>
+                </constraints>
+                <properties>
+                  <background color="-1"/>
+                  <visible value="true"/>
+                </properties>
+                <border type="line"/>
+                <children>
+                  <scrollpane id="78c95" binding="defScrollPane">
+                    <constraints>
+                      <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="7" hsize-policy="7" anchor="1" fill="1" indent="0" use-parent-layout="false">
+                        <minimum-size width="200" height="100"/>
+                        <preferred-size width="200" height="100"/>
+                      </grid>
+                    </constraints>
+                    <properties>
+                      <background color="-1"/>
+                    </properties>
+                    <border type="none"/>
+                    <children/>
+                  </scrollpane>
+                </children>
+              </grid>
+              <component id="cf0f2" class="javax.swing.JLabel">
+                <constraints>
+                  <grid row="4" column="0" row-span="1" col-span="3" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+                  <gridbag weightx="1.0" weighty="0.0"/>
+                </constraints>
+                <properties>
+                  <text value="Method Calls"/>
+                  <toolTipText value="Method and constructor calls detected for third-party libraries"/>
+                </properties>
+              </component>
+              <component id="a30e5" class="javax.swing.JLabel" binding="fileName">
+                <constraints>
+                  <grid row="8" column="0" row-span="1" col-span="3" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+                  <gridbag top="2" left="2" bottom="2" right="2" weightx="1.0" weighty="0.0"/>
+                </constraints>
+                <properties>
+                  <background color="-1"/>
+                  <text value="Source File: "/>
+                </properties>
+              </component>
+              <component id="90d66" class="javax.swing.JLabel">
+                <constraints>
+                  <grid row="9" column="0" row-span="1" col-span="3" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+                  <gridbag top="2" left="2" bottom="2" right="2" weightx="1.0" weighty="0.0"/>
+                </constraints>
+                <properties>
+                  <text value="Recommended Alternative Energy-Efficient Library"/>
+                  <toolTipText value="The recommendations are based on mean energy consumption(joules) of each library and percentage gain/loss calcualted for each library within each use case.   "/>
+                </properties>
+              </component>
+              <grid id="e1043" binding="methodCallsBox" layout-manager="GridLayoutManager" row-count="1" column-count="1" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+                <margin top="0" left="0" bottom="0" right="0"/>
+                <constraints>
+                  <grid row="5" column="0" row-span="1" col-span="3" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+                  <gridbag weightx="1.0" weighty="0.0"/>
+                </constraints>
+                <properties>
+                  <background color="-1"/>
+                </properties>
+                <border type="line"/>
+                <children>
+                  <scrollpane id="79121" binding="callScrollPane">
+                    <constraints>
+                      <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="7" hsize-policy="7" anchor="1" fill="1" indent="0" use-parent-layout="false">
+                        <minimum-size width="200" height="200"/>
+                        <preferred-size width="200" height="200"/>
+                      </grid>
+                    </constraints>
+                    <properties>
+                      <background color="-1"/>
+                    </properties>
+                    <border type="none"/>
+                    <children/>
+                  </scrollpane>
+                </children>
+              </grid>
+              <component id="58f4d" class="javax.swing.JTextArea" binding="recommendation">
+                <constraints>
+                  <grid row="10" column="0" row-span="1" col-span="3" vsize-policy="2" hsize-policy="0" anchor="1" fill="1" indent="0" use-parent-layout="false">
+                    <preferred-size width="262" height="23"/>
+                  </grid>
+                  <gridbag weightx="1.0" weighty="0.0"/>
+                </constraints>
+                <properties>
+                  <lineWrap value="true"/>
+                  <wrapStyleWord value="false"/>
+                </properties>
+              </component>
+              <component id="39107" class="javax.swing.JTextArea" binding="callRecommendation">
+                <constraints>
+                  <grid row="12" column="0" row-span="1" col-span="3" vsize-policy="6" hsize-policy="0" anchor="1" fill="1" indent="0" use-parent-layout="false"/>
+                  <gridbag weightx="1.0" weighty="1.0"/>
+                </constraints>
+                <properties>
+                  <lineWrap value="true"/>
+                  <toolTipText value=""/>
+                </properties>
+              </component>
+              <component id="9bc0a" class="javax.swing.JLabel">
+                <constraints>
+                  <grid row="11" column="0" row-span="1" col-span="3" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+                  <gridbag top="2" left="2" bottom="2" right="2" weightx="1.0" weighty="0.0"/>
+                </constraints>
+                <properties>
+                  <text value="Ranking Alternative Energy-Efficient Libraries for Detected HTTP Request(s)"/>
+                  <toolTipText value="Libraries are ranked so that the total enery loss value for the combination of detected HTTP request(s) is minimum."/>
+                </properties>
+              </component>
+              <component id="8c6fd" class="javax.swing.JButton" binding="exportResultsButton">
+                <constraints>
+                  <grid row="6" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="5" fill="0" indent="0" use-parent-layout="false"/>
+                  <gridbag weightx="0.0" weighty="0.0"/>
+                </constraints>
+                <properties>
+                  <enabled value="true"/>
+                  <text value="Export"/>
+                </properties>
+              </component>
+              <component id="d4850" class="javax.swing.JTextArea" binding="exportLabel">
+                <constraints>
+                  <grid row="7" column="0" row-span="1" col-span="3" vsize-policy="2" hsize-policy="0" anchor="0" fill="3" indent="0" use-parent-layout="false">
+                    <preferred-size width="262" height="23"/>
+                  </grid>
+                  <gridbag top="4" left="4" bottom="4" right="4" weightx="1.0" weighty="0.0"/>
+                </constraints>
+                <properties>
+                  <enabled value="true"/>
+                  <lineWrap value="true"/>
+                  <wrapStyleWord value="false"/>
+                </properties>
+              </component>
+              <component id="4cabb" class="javax.swing.JTextField" binding="versionNo">
+                <constraints>
+                  <grid row="6" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+                    <preferred-size width="150" height="-1"/>
+                  </grid>
+                  <gridbag weightx="0.0" weighty="0.0"/>
+                </constraints>
+                <properties>
+                  <enabled value="true"/>
+                  <minimumSize width="80" height="30"/>
+                  <preferredSize width="80" height="30"/>
+                </properties>
+              </component>
+              <component id="f3099" class="javax.swing.JLabel">
+                <constraints>
+                  <grid row="6" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+                  <gridbag top="2" left="2" bottom="2" right="2" weightx="0.0" weighty="0.0"/>
+                </constraints>
+                <properties>
+                  <enabled value="true"/>
+                  <text value="Analysis Version:  "/>
+                </properties>
+              </component>
+            </children>
+          </grid>
+        </children>
+      </scrollpane>
+    </children>
+  </grid>
+</form>

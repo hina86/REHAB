@@ -1,0 +1,634 @@
+{
+  "appInfo" : {
+    "build" : "202.6397.94",
+    "buildDate" : "Mon, 27 Jul 2020 13:39:09 +0300",
+    "productCode" : "IC",
+    "generated" : "Tue, 2 Mar 2021 11:37:05 +0200",
+    "os" : "Windows 10 10.0",
+    "runtime" : "Oracle Corporation 1.8.0_251 1.8.0_251-b08"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 518979584,
+    "numberOfProcessors" : 4,
+    "maxNumberOfIndexingThreads" : 4,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "projectIndexingHistory" : {
+    "projectName" : "glide",
+    "numberOfFileProviders" : 6,
+    "totalNumberOfFiles" : 870,
+    "times" : {
+      "indexingTime" : "16 s 360 ms",
+      "scanFilesTime" : "4 s 948 ms",
+      "pushPropertiesTime" : "5 s 753 ms",
+      "indexExtensionsTime" : "< 1 ms",
+      "pushPropertiesStart" : "Tue, 2 Mar 2021 11:36:49 +0200",
+      "pushPropertiesEnd" : "Tue, 2 Mar 2021 11:36:55 +0200",
+      "scanFilesStart" : "Tue, 2 Mar 2021 11:36:55 +0200",
+      "scanFilesEnd" : "Tue, 2 Mar 2021 11:37:00 +0200",
+      "indexExtensionsStart" : "Tue, 2 Mar 2021 11:36:55 +0200",
+      "indexExtensionsEnd" : "Tue, 2 Mar 2021 11:36:55 +0200",
+      "indexingStart" : "Tue, 2 Mar 2021 11:36:49 +0200",
+      "indexingEnd" : "Tue, 2 Mar 2021 11:37:05 +0200"
+    },
+    "numberOfIndexingThreads" : 3,
+    "totalStatsPerFileType" : [ {
+      "fileType" : "CLASS",
+      "partOfTotalIndexingTime" : "40.5%",
+      "partOfTotalContentLoadingTime" : "41.2%",
+      "totalNumberOfFiles" : 541,
+      "totalFilesSize" : "1.43 MB",
+      "indexingSpeed" : "420.49 kB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Library 'Gradle: com.github.bumptech.glide:glide:4.9.0@aar'",
+        "numberOfFiles" : 518,
+        "totalFilesSize" : "1.36 MB",
+        "partOfTotalIndexingTimeOfThisFileType" : "79.4%"
+      }, {
+        "providerName" : "Library 'Gradle: com.github.bumptech.glide:disklrucache:4.9.0@jar'",
+        "numberOfFiles" : 9,
+        "totalFilesSize" : "37.62 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "18.4%"
+      }, {
+        "providerName" : "Library 'Gradle: com.github.bumptech.glide:annotations:4.9.0@jar'",
+        "numberOfFiles" : 6,
+        "totalFilesSize" : "3.07 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "1.8%"
+      }, {
+        "providerName" : "Library 'Gradle: com.github.bumptech.glide:gifdecoder:4.9.0@aar'",
+        "numberOfFiles" : 8,
+        "totalFilesSize" : "31.42 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "< 1%"
+      } ]
+    }, {
+      "fileType" : "JAVA",
+      "partOfTotalIndexingTime" : "39.8%",
+      "partOfTotalContentLoadingTime" : "51.9%",
+      "totalNumberOfFiles" : 302,
+      "totalFilesSize" : "1.3 MB",
+      "indexingSpeed" : "388.52 kB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Library 'Gradle: com.github.bumptech.glide:glide:4.9.0@aar'",
+        "numberOfFiles" : 285,
+        "totalFilesSize" : "1.19 MB",
+        "partOfTotalIndexingTimeOfThisFileType" : "77.1%"
+      }, {
+        "providerName" : "Library 'Gradle: com.github.bumptech.glide:gifdecoder:4.9.0@aar'",
+        "numberOfFiles" : 5,
+        "totalFilesSize" : "55.05 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "11.2%"
+      }, {
+        "providerName" : "Module 'glide.app'",
+        "numberOfFiles" : 3,
+        "totalFilesSize" : "5.17 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "9.6%"
+      }, {
+        "providerName" : "Library 'Gradle: com.github.bumptech.glide:disklrucache:4.9.0@jar'",
+        "numberOfFiles" : 3,
+        "totalFilesSize" : "38.72 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "1.3%"
+      }, {
+        "providerName" : "Library 'Gradle: com.github.bumptech.glide:annotations:4.9.0@jar'",
+        "numberOfFiles" : 6,
+        "totalFilesSize" : "9.24 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "< 1%"
+      } ]
+    }, {
+      "fileType" : "XML",
+      "partOfTotalIndexingTime" : "17.2%",
+      "partOfTotalContentLoadingTime" : "6.3%",
+      "totalNumberOfFiles" : 10,
+      "totalFilesSize" : "10.84 kB",
+      "indexingSpeed" : "7.49 kB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Module 'glide.app'",
+        "numberOfFiles" : 9,
+        "totalFilesSize" : "10.72 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "99.6%"
+      }, {
+        "providerName" : "Library 'Gradle: com.github.bumptech.glide:glide:4.9.0@aar'",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "121 B",
+        "partOfTotalIndexingTimeOfThisFileType" : "< 1%"
+      } ]
+    }, {
+      "fileType" : "Groovy",
+      "partOfTotalIndexingTime" : "1.3%",
+      "partOfTotalContentLoadingTime" : "< 1%",
+      "totalNumberOfFiles" : 3,
+      "totalFilesSize" : "1.77 kB",
+      "indexingSpeed" : "16.37 kB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Module 'glide.app'",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "1.12 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "64.0%"
+      }, {
+        "providerName" : "Module 'CLIENTS - Copy.glide'",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : "641 B",
+        "partOfTotalIndexingTimeOfThisFileType" : "36.0%"
+      } ]
+    }, {
+      "fileType" : "Properties",
+      "partOfTotalIndexingTime" : "< 1%",
+      "partOfTotalContentLoadingTime" : "< 1%",
+      "totalNumberOfFiles" : 3,
+      "totalFilesSize" : "1.32 kB",
+      "indexingSpeed" : "44.6 kB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Module 'CLIENTS - Copy.glide'",
+        "numberOfFiles" : 3,
+        "totalFilesSize" : "1.32 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "100.0%"
+      } ]
+    }, {
+      "fileType" : "GitIgnore file",
+      "partOfTotalIndexingTime" : "< 1%",
+      "partOfTotalContentLoadingTime" : "< 1%",
+      "totalNumberOfFiles" : 2,
+      "totalFilesSize" : "1.07 kB",
+      "indexingSpeed" : "40.63 kB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Module 'glide.app'",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "8 B",
+        "partOfTotalIndexingTimeOfThisFileType" : "96.8%"
+      }, {
+        "providerName" : "Module 'CLIENTS - Copy.glide'",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "1.07 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "3.2%"
+      } ]
+    }, {
+      "fileType" : "Manifest",
+      "partOfTotalIndexingTime" : "< 1%",
+      "partOfTotalContentLoadingTime" : "< 1%",
+      "totalNumberOfFiles" : 6,
+      "totalFilesSize" : "150 B",
+      "indexingSpeed" : "5.78 kB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Library 'Gradle: com.github.bumptech.glide:gifdecoder:4.9.0@aar'",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "25 B",
+        "partOfTotalIndexingTimeOfThisFileType" : "68.5%"
+      }, {
+        "providerName" : "Library 'Gradle: com.github.bumptech.glide:disklrucache:4.9.0@jar'",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : "50 B",
+        "partOfTotalIndexingTimeOfThisFileType" : "27.9%"
+      }, {
+        "providerName" : "Library 'Gradle: com.github.bumptech.glide:annotations:4.9.0@jar'",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : "50 B",
+        "partOfTotalIndexingTimeOfThisFileType" : "2.4%"
+      }, {
+        "providerName" : "Library 'Gradle: com.github.bumptech.glide:glide:4.9.0@aar'",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "25 B",
+        "partOfTotalIndexingTimeOfThisFileType" : "1.2%"
+      } ]
+    }, {
+      "fileType" : "textmate",
+      "partOfTotalIndexingTime" : "< 1%",
+      "partOfTotalContentLoadingTime" : "< 1%",
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : "2.26 kB",
+      "indexingSpeed" : "122.03 kB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Module 'CLIENTS - Copy.glide'",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "2.26 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "100.0%"
+      } ]
+    }, {
+      "fileType" : "Shell Script",
+      "partOfTotalIndexingTime" : "< 1%",
+      "partOfTotalContentLoadingTime" : "< 1%",
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : "5.47 kB",
+      "indexingSpeed" : "3.26 MB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Module 'CLIENTS - Copy.glide'",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "5.47 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "100.0%"
+      } ]
+    }, {
+      "fileType" : "ProGuard File",
+      "partOfTotalIndexingTime" : "< 1%",
+      "partOfTotalContentLoadingTime" : "< 1%",
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : "772 B",
+      "indexingSpeed" : "1.86 MB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Module 'glide.app'",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "772 B",
+        "partOfTotalIndexingTimeOfThisFileType" : "100.0%"
+      } ]
+    } ],
+    "totalStatsPerIndexer" : [ {
+      "indexId" : "Stubs",
+      "partOfTotalIndexingTime" : "35.6%",
+      "totalNumberOfFiles" : 560,
+      "totalFilesSize" : "1.45 MB",
+      "indexingSpeed" : "485.68 kB/s"
+    }, {
+      "indexId" : "Trigram.Index",
+      "partOfTotalIndexingTime" : "28.8%",
+      "totalNumberOfFiles" : 329,
+      "totalFilesSize" : "1.32 MB",
+      "indexingSpeed" : "546.3 kB/s"
+    }, {
+      "indexId" : "IdIndex",
+      "partOfTotalIndexingTime" : "15.0%",
+      "totalNumberOfFiles" : 329,
+      "totalFilesSize" : "1.32 MB",
+      "indexingSpeed" : "1.05 MB/s"
+    }, {
+      "indexId" : "bytecodeAnalysis",
+      "partOfTotalIndexingTime" : "9.1%",
+      "totalNumberOfFiles" : 541,
+      "totalFilesSize" : "1.43 MB",
+      "indexingSpeed" : "1.87 MB/s"
+    }, {
+      "indexId" : "BindingXmlIndex",
+      "partOfTotalIndexingTime" : "4.4%",
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : "992 B",
+      "indexingSpeed" : "2.68 kB/s"
+    }, {
+      "indexId" : "TodoIndex",
+      "partOfTotalIndexingTime" : "2.9%",
+      "totalNumberOfFiles" : 23,
+      "totalFilesSize" : "28.56 kB",
+      "indexingSpeed" : "117.5 kB/s"
+    }, {
+      "indexId" : "com.android.tools.idea.model.AndroidManifestIndex$Companion$NAME$1.NAME",
+      "partOfTotalIndexingTime" : "1.5%",
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : "807 B",
+      "indexingSpeed" : "6.46 kB/s"
+    }, {
+      "indexId" : "fileIncludes",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 10,
+      "totalFilesSize" : "10.84 kB",
+      "indexingSpeed" : "133.11 kB/s"
+    }, {
+      "indexId" : "org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 541,
+      "totalFilesSize" : "1.43 MB",
+      "indexingSpeed" : "25.05 MB/s"
+    }, {
+      "indexId" : "org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 541,
+      "totalFilesSize" : "1.43 MB",
+      "indexingSpeed" : "43.66 MB/s"
+    }, {
+      "indexId" : "java.null.method.argument",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 3,
+      "totalFilesSize" : "5.17 kB",
+      "indexingSpeed" : "289.67 kB/s"
+    }, {
+      "indexId" : "java.binary.plus.expression",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 3,
+      "totalFilesSize" : "5.17 kB",
+      "indexingSpeed" : "553.69 kB/s"
+    }, {
+      "indexId" : "java.fun.expression",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 3,
+      "totalFilesSize" : "5.17 kB",
+      "indexingSpeed" : "609.95 kB/s"
+    }, {
+      "indexId" : "DomFileIndex",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 10,
+      "totalFilesSize" : "10.84 kB",
+      "indexingSpeed" : "1.34 MB/s"
+    }, {
+      "indexId" : "ant-imports",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 10,
+      "totalFilesSize" : "10.84 kB",
+      "indexingSpeed" : "1.55 MB/s"
+    }, {
+      "indexId" : "FrameworkDetectionIndex",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 10,
+      "totalFilesSize" : "10.84 kB",
+      "indexingSpeed" : "1.95 MB/s"
+    }, {
+      "indexId" : "IdeaPluginRegistrationIndex",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 10,
+      "totalFilesSize" : "10.84 kB",
+      "indexingSpeed" : "9.71 MB/s"
+    }, {
+      "indexId" : "RelaxSymbolIndex",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 10,
+      "totalFilesSize" : "10.84 kB",
+      "indexingSpeed" : "25.17 MB/s"
+    }, {
+      "indexId" : "xmlProperties",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 10,
+      "totalFilesSize" : "10.84 kB",
+      "indexingSpeed" : "30.36 MB/s"
+    }, {
+      "indexId" : "XsltSymbolIndex",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 10,
+      "totalFilesSize" : "10.84 kB",
+      "indexingSpeed" : "31.2 MB/s"
+    }, {
+      "indexId" : "PluginIdModuleIndex",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 10,
+      "totalFilesSize" : "10.84 kB",
+      "indexingSpeed" : "146.11 MB/s"
+    }, {
+      "indexId" : "PluginIdDependenciesIndex",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 10,
+      "totalFilesSize" : "10.84 kB",
+      "indexingSpeed" : "149.12 MB/s"
+    }, {
+      "indexId" : "devkit.ExtensionPointIndex",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 10,
+      "totalFilesSize" : "10.84 kB",
+      "indexingSpeed" : "160.37 MB/s"
+    } ],
+    "fileProviderStatistics" : [ {
+      "providerName" : "Library 'Gradle: com.github.bumptech.glide:glide:4.9.0@aar'",
+      "totalNumberOfFiles" : 805,
+      "totalIndexingTime" : "3 s 560 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "CLASS",
+        "numberOfFiles" : 518,
+        "totalFilesSize" : "1.36 MB",
+        "partOfTotalIndexingTime" : "51.2%",
+        "partOfTotalContentLoadingTime" : "44.4%"
+      }, {
+        "fileType" : "JAVA",
+        "numberOfFiles" : 285,
+        "totalFilesSize" : "1.19 MB",
+        "partOfTotalIndexingTime" : "48.7%",
+        "partOfTotalContentLoadingTime" : "55.5%"
+      }, {
+        "fileType" : "XML",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "121 B",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "< 1%"
+      }, {
+        "fileType" : "Manifest",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "25 B",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "< 1%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "Stubs",
+        "partOfTotalIndexingTime" : "35.9%"
+      }, {
+        "indexId" : "Trigram.Index",
+        "partOfTotalIndexingTime" : "34.8%"
+      }, {
+        "indexId" : "IdIndex",
+        "partOfTotalIndexingTime" : "14.0%"
+      }, {
+        "indexId" : "bytecodeAnalysis",
+        "partOfTotalIndexingTime" : "13.7%"
+      }, {
+        "indexId" : "org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex",
+        "partOfTotalIndexingTime" : "1.1%"
+      } ],
+      "fastIndexers" : [ "DomFileIndex", "FrameworkDetectionIndex", "IdeaPluginRegistrationIndex", "PluginIdDependenciesIndex", "PluginIdModuleIndex", "RelaxSymbolIndex", "XsltSymbolIndex", "ant-imports", "devkit.ExtensionPointIndex", "fileIncludes", "org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex", "xmlProperties" ]
+    }, {
+      "providerName" : "Module 'glide.app'",
+      "totalNumberOfFiles" : 15,
+      "totalIndexingTime" : "1 s 77 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "XML",
+        "numberOfFiles" : 9,
+        "totalFilesSize" : "10.72 kB",
+        "partOfTotalIndexingTime" : "77.6%",
+        "partOfTotalContentLoadingTime" : "89.5%"
+      }, {
+        "fileType" : "JAVA",
+        "numberOfFiles" : 3,
+        "totalFilesSize" : "5.17 kB",
+        "partOfTotalIndexingTime" : "17.2%",
+        "partOfTotalContentLoadingTime" : "8.2%"
+      }, {
+        "fileType" : "Groovy",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "1.12 kB",
+        "partOfTotalIndexingTime" : "3.7%",
+        "partOfTotalContentLoadingTime" : "< 1%"
+      }, {
+        "fileType" : "GitIgnore file",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "8 B",
+        "partOfTotalIndexingTime" : "1.4%",
+        "partOfTotalContentLoadingTime" : "< 1%"
+      }, {
+        "fileType" : "ProGuard File",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "772 B",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "1.5%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "Trigram.Index",
+        "partOfTotalIndexingTime" : "30.0%"
+      }, {
+        "indexId" : "Stubs",
+        "partOfTotalIndexingTime" : "21.2%"
+      }, {
+        "indexId" : "BindingXmlIndex",
+        "partOfTotalIndexingTime" : "19.9%"
+      }, {
+        "indexId" : "TodoIndex",
+        "partOfTotalIndexingTime" : "10.9%"
+      }, {
+        "indexId" : "com.android.tools.idea.model.AndroidManifestIndex$Companion$NAME$1.NAME",
+        "partOfTotalIndexingTime" : "6.7%"
+      }, {
+        "indexId" : "fileIncludes",
+        "partOfTotalIndexingTime" : "4.4%"
+      }, {
+        "indexId" : "IdIndex",
+        "partOfTotalIndexingTime" : "3.7%"
+      } ],
+      "fastIndexers" : [ "DomFileIndex", "FrameworkDetectionIndex", "IdeaPluginRegistrationIndex", "PluginIdDependenciesIndex", "PluginIdModuleIndex", "RelaxSymbolIndex", "XsltSymbolIndex", "ant-imports", "devkit.ExtensionPointIndex", "java.binary.plus.expression", "java.fun.expression", "java.null.method.argument", "xmlProperties" ]
+    }, {
+      "providerName" : "Library 'Gradle: com.github.bumptech.glide:disklrucache:4.9.0@jar'",
+      "totalNumberOfFiles" : 14,
+      "totalIndexingTime" : "498 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "CLASS",
+        "numberOfFiles" : 9,
+        "totalFilesSize" : "37.62 kB",
+        "partOfTotalIndexingTime" : "92.6%",
+        "partOfTotalContentLoadingTime" : "78.2%"
+      }, {
+        "fileType" : "JAVA",
+        "numberOfFiles" : 3,
+        "totalFilesSize" : "38.72 kB",
+        "partOfTotalIndexingTime" : "6.3%",
+        "partOfTotalContentLoadingTime" : "21.5%"
+      }, {
+        "fileType" : "Manifest",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : "50 B",
+        "partOfTotalIndexingTime" : "1.1%",
+        "partOfTotalContentLoadingTime" : "< 1%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "Stubs",
+        "partOfTotalIndexingTime" : "86.2%"
+      }, {
+        "indexId" : "bytecodeAnalysis",
+        "partOfTotalIndexingTime" : "5.7%"
+      }, {
+        "indexId" : "IdIndex",
+        "partOfTotalIndexingTime" : "5.5%"
+      }, {
+        "indexId" : "Trigram.Index",
+        "partOfTotalIndexingTime" : "1.9%"
+      } ],
+      "fastIndexers" : [ "org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex", "org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex" ]
+    }, {
+      "providerName" : "Library 'Gradle: com.github.bumptech.glide:gifdecoder:4.9.0@aar'",
+      "totalNumberOfFiles" : 14,
+      "totalIndexingTime" : "252 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "JAVA",
+        "numberOfFiles" : 5,
+        "totalFilesSize" : "55.05 kB",
+        "partOfTotalIndexingTime" : "92.1%",
+        "partOfTotalContentLoadingTime" : "73.5%"
+      }, {
+        "fileType" : "Manifest",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "25 B",
+        "partOfTotalIndexingTime" : "4.4%",
+        "partOfTotalContentLoadingTime" : "< 1%"
+      }, {
+        "fileType" : "CLASS",
+        "numberOfFiles" : 8,
+        "totalFilesSize" : "31.42 kB",
+        "partOfTotalIndexingTime" : "3.5%",
+        "partOfTotalContentLoadingTime" : "26.3%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "IdIndex",
+        "partOfTotalIndexingTime" : "94.8%"
+      }, {
+        "indexId" : "Stubs",
+        "partOfTotalIndexingTime" : "2.9%"
+      }, {
+        "indexId" : "Trigram.Index",
+        "partOfTotalIndexingTime" : "1.6%"
+      } ],
+      "fastIndexers" : [ "bytecodeAnalysis", "org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex", "org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex" ]
+    }, {
+      "providerName" : "Library 'Gradle: com.github.bumptech.glide:annotations:4.9.0@jar'",
+      "totalNumberOfFiles" : 14,
+      "totalIndexingTime" : "136 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "CLASS",
+        "numberOfFiles" : 6,
+        "totalFilesSize" : "3.07 kB",
+        "partOfTotalIndexingTime" : "67.3%",
+        "partOfTotalContentLoadingTime" : "29.3%"
+      }, {
+        "fileType" : "JAVA",
+        "numberOfFiles" : 6,
+        "totalFilesSize" : "9.24 kB",
+        "partOfTotalIndexingTime" : "32.0%",
+        "partOfTotalContentLoadingTime" : "70.5%"
+      }, {
+        "fileType" : "Manifest",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : "50 B",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "< 1%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "Stubs",
+        "partOfTotalIndexingTime" : "64.1%"
+      }, {
+        "indexId" : "IdIndex",
+        "partOfTotalIndexingTime" : "29.9%"
+      }, {
+        "indexId" : "Trigram.Index",
+        "partOfTotalIndexingTime" : "2.8%"
+      }, {
+        "indexId" : "bytecodeAnalysis",
+        "partOfTotalIndexingTime" : "2.4%"
+      } ],
+      "fastIndexers" : [ "org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex", "org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex" ]
+    }, {
+      "providerName" : "Module 'CLIENTS - Copy.glide'",
+      "totalNumberOfFiles" : 8,
+      "totalIndexingTime" : "48 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "Groovy",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : "641 B",
+        "partOfTotalIndexingTime" : "43.3%",
+        "partOfTotalContentLoadingTime" : "1.9%"
+      }, {
+        "fileType" : "Properties",
+        "numberOfFiles" : 3,
+        "totalFilesSize" : "1.32 kB",
+        "partOfTotalIndexingTime" : "33.2%",
+        "partOfTotalContentLoadingTime" : "58.8%"
+      }, {
+        "fileType" : "textmate",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "2.26 kB",
+        "partOfTotalIndexingTime" : "20.7%",
+        "partOfTotalContentLoadingTime" : "10.2%"
+      }, {
+        "fileType" : "Shell Script",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "5.47 kB",
+        "partOfTotalIndexingTime" : "1.9%",
+        "partOfTotalContentLoadingTime" : "22.6%"
+      }, {
+        "fileType" : "GitIgnore file",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "1.07 kB",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "6.7%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "Stubs",
+        "partOfTotalIndexingTime" : "49.9%"
+      }, {
+        "indexId" : "TodoIndex",
+        "partOfTotalIndexingTime" : "44.8%"
+      }, {
+        "indexId" : "Trigram.Index",
+        "partOfTotalIndexingTime" : "3.4%"
+      }, {
+        "indexId" : "IdIndex",
+        "partOfTotalIndexingTime" : "1.9%"
+      } ],
+      "fastIndexers" : [ ]
+    } ]
+  }
+}

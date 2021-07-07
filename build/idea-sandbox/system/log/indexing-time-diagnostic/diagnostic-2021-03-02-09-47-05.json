@@ -1,0 +1,485 @@
+{
+  "appInfo" : {
+    "build" : "202.6397.94",
+    "buildDate" : "Mon, 27 Jul 2020 13:39:09 +0300",
+    "productCode" : "IC",
+    "generated" : "Tue, 2 Mar 2021 09:47:05 +0200",
+    "os" : "Windows 10 10.0",
+    "runtime" : "Oracle Corporation 1.8.0_251 1.8.0_251-b08"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 518979584,
+    "numberOfProcessors" : 4,
+    "maxNumberOfIndexingThreads" : 4,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "projectIndexingHistory" : {
+    "projectName" : "universal-image-loader",
+    "numberOfFileProviders" : 3,
+    "totalNumberOfFiles" : 203,
+    "times" : {
+      "indexingTime" : "2 s 437 ms",
+      "scanFilesTime" : "1 s 32 ms",
+      "pushPropertiesTime" : "194 ms",
+      "indexExtensionsTime" : "< 1 ms",
+      "pushPropertiesStart" : "Tue, 2 Mar 2021 09:47:03 +0200",
+      "pushPropertiesEnd" : "Tue, 2 Mar 2021 09:47:03 +0200",
+      "scanFilesStart" : "Tue, 2 Mar 2021 09:47:03 +0200",
+      "scanFilesEnd" : "Tue, 2 Mar 2021 09:47:04 +0200",
+      "indexExtensionsStart" : "Tue, 2 Mar 2021 09:47:03 +0200",
+      "indexExtensionsEnd" : "Tue, 2 Mar 2021 09:47:03 +0200",
+      "indexingStart" : "Tue, 2 Mar 2021 09:47:03 +0200",
+      "indexingEnd" : "Tue, 2 Mar 2021 09:47:05 +0200"
+    },
+    "numberOfIndexingThreads" : 3,
+    "totalStatsPerFileType" : [ {
+      "fileType" : "CLASS",
+      "partOfTotalIndexingTime" : "45.4%",
+      "partOfTotalContentLoadingTime" : "37.0%",
+      "totalNumberOfFiles" : 108,
+      "totalFilesSize" : "330.24 kB",
+      "indexingSpeed" : "340.5 kB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Library 'Gradle: com.nostra13.universalimageloader:universal-image-loader:1.9.5@jar'",
+        "numberOfFiles" : 108,
+        "totalFilesSize" : "330.24 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "100.0%"
+      } ]
+    }, {
+      "fileType" : "JAVA",
+      "partOfTotalIndexingTime" : "26.1%",
+      "partOfTotalContentLoadingTime" : "38.3%",
+      "totalNumberOfFiles" : 73,
+      "totalFilesSize" : "439.96 kB",
+      "indexingSpeed" : "789.02 kB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Library 'Gradle: com.nostra13.universalimageloader:universal-image-loader:1.9.5@jar'",
+        "numberOfFiles" : 69,
+        "totalFilesSize" : "433.72 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "60.9%"
+      }, {
+        "providerName" : "Module 'universal-image-loader.app'",
+        "numberOfFiles" : 4,
+        "totalFilesSize" : "6.24 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "39.1%"
+      } ]
+    }, {
+      "fileType" : "XML",
+      "partOfTotalIndexingTime" : "22.9%",
+      "partOfTotalContentLoadingTime" : "16.8%",
+      "totalNumberOfFiles" : 9,
+      "totalFilesSize" : "10.73 kB",
+      "indexingSpeed" : "21.88 kB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Module 'universal-image-loader.app'",
+        "numberOfFiles" : 9,
+        "totalFilesSize" : "10.73 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "100.0%"
+      } ]
+    }, {
+      "fileType" : "Groovy",
+      "partOfTotalIndexingTime" : "3.0%",
+      "partOfTotalContentLoadingTime" : "< 1%",
+      "totalNumberOfFiles" : 3,
+      "totalFilesSize" : "1.64 kB",
+      "indexingSpeed" : "25.56 kB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Module 'universal-image-loader.app'",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "1.05 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "81.1%"
+      }, {
+        "providerName" : "Module 'universal-image-loader'",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : "589 B",
+        "partOfTotalIndexingTimeOfThisFileType" : "18.9%"
+      } ]
+    }, {
+      "fileType" : "Properties",
+      "partOfTotalIndexingTime" : "1.0%",
+      "partOfTotalContentLoadingTime" : "3.9%",
+      "totalNumberOfFiles" : 3,
+      "totalFilesSize" : "1.32 kB",
+      "indexingSpeed" : "59.05 kB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Module 'universal-image-loader'",
+        "numberOfFiles" : 3,
+        "totalFilesSize" : "1.32 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "100.0%"
+      } ]
+    }, {
+      "fileType" : "GitIgnore file",
+      "partOfTotalIndexingTime" : "< 1%",
+      "partOfTotalContentLoadingTime" : "1.4%",
+      "totalNumberOfFiles" : 2,
+      "totalFilesSize" : "195 B",
+      "indexingSpeed" : "11.15 kB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Module 'universal-image-loader'",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "187 B",
+        "partOfTotalIndexingTimeOfThisFileType" : "92.3%"
+      }, {
+        "providerName" : "Module 'universal-image-loader.app'",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "8 B",
+        "partOfTotalIndexingTimeOfThisFileType" : "7.7%"
+      } ]
+    }, {
+      "fileType" : "textmate",
+      "partOfTotalIndexingTime" : "< 1%",
+      "partOfTotalContentLoadingTime" : "< 1%",
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : "2.26 kB",
+      "indexingSpeed" : "383.82 kB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Module 'universal-image-loader'",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "2.26 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "100.0%"
+      } ]
+    }, {
+      "fileType" : "Manifest",
+      "partOfTotalIndexingTime" : "< 1%",
+      "partOfTotalContentLoadingTime" : "< 1%",
+      "totalNumberOfFiles" : 2,
+      "totalFilesSize" : "50 B",
+      "indexingSpeed" : "8.7 kB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Library 'Gradle: com.nostra13.universalimageloader:universal-image-loader:1.9.5@jar'",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : "50 B",
+        "partOfTotalIndexingTimeOfThisFileType" : "100.0%"
+      } ]
+    }, {
+      "fileType" : "Shell Script",
+      "partOfTotalIndexingTime" : "< 1%",
+      "partOfTotalContentLoadingTime" : "< 1%",
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : "5.47 kB",
+      "indexingSpeed" : "1.58 MB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Module 'universal-image-loader'",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "5.47 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "100.0%"
+      } ]
+    }, {
+      "fileType" : "ProGuard File",
+      "partOfTotalIndexingTime" : "< 1%",
+      "partOfTotalContentLoadingTime" : "< 1%",
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : "772 B",
+      "indexingSpeed" : "1.77 MB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Module 'universal-image-loader.app'",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "772 B",
+        "partOfTotalIndexingTimeOfThisFileType" : "100.0%"
+      } ]
+    } ],
+    "totalStatsPerIndexer" : [ {
+      "indexId" : "Stubs",
+      "partOfTotalIndexingTime" : "48.3%",
+      "totalNumberOfFiles" : 127,
+      "totalFilesSize" : "350.17 kB",
+      "indexingSpeed" : "339.38 kB/s"
+    }, {
+      "indexId" : "IdIndex",
+      "partOfTotalIndexingTime" : "12.2%",
+      "totalNumberOfFiles" : 95,
+      "totalFilesSize" : "462.4 kB",
+      "indexingSpeed" : "1.77 MB/s"
+    }, {
+      "indexId" : "Trigram.Index",
+      "partOfTotalIndexingTime" : "10.8%",
+      "totalNumberOfFiles" : 95,
+      "totalFilesSize" : "462.4 kB",
+      "indexingSpeed" : "2 MB/s"
+    }, {
+      "indexId" : "TodoIndex",
+      "partOfTotalIndexingTime" : "8.6%",
+      "totalNumberOfFiles" : 24,
+      "totalFilesSize" : "28.63 kB",
+      "indexingSpeed" : "155.73 kB/s"
+    }, {
+      "indexId" : "bytecodeAnalysis",
+      "partOfTotalIndexingTime" : "7.2%",
+      "totalNumberOfFiles" : 108,
+      "totalFilesSize" : "330.24 kB",
+      "indexingSpeed" : "2.16 MB/s"
+    }, {
+      "indexId" : "fileIncludes",
+      "partOfTotalIndexingTime" : "3.1%",
+      "totalNumberOfFiles" : 9,
+      "totalFilesSize" : "10.73 kB",
+      "indexingSpeed" : "160.58 kB/s"
+    }, {
+      "indexId" : "com.android.tools.idea.model.AndroidManifestIndex$Companion$NAME$1.NAME",
+      "partOfTotalIndexingTime" : "3.0%",
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : "811 B",
+      "indexingSpeed" : "12.59 kB/s"
+    }, {
+      "indexId" : "java.null.method.argument",
+      "partOfTotalIndexingTime" : "1.2%",
+      "totalNumberOfFiles" : 4,
+      "totalFilesSize" : "6.24 kB",
+      "indexingSpeed" : "251.38 kB/s"
+    }, {
+      "indexId" : "java.binary.plus.expression",
+      "partOfTotalIndexingTime" : "1.1%",
+      "totalNumberOfFiles" : 4,
+      "totalFilesSize" : "6.24 kB",
+      "indexingSpeed" : "268 kB/s"
+    }, {
+      "indexId" : "FrameworkDetectionIndex",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 9,
+      "totalFilesSize" : "10.73 kB",
+      "indexingSpeed" : "529.24 kB/s"
+    }, {
+      "indexId" : "java.fun.expression",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 4,
+      "totalFilesSize" : "6.24 kB",
+      "indexingSpeed" : "331.12 kB/s"
+    }, {
+      "indexId" : "BindingXmlIndex",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : "992 B",
+      "indexingSpeed" : "53.26 kB/s"
+    }, {
+      "indexId" : "org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 108,
+      "totalFilesSize" : "330.24 kB",
+      "indexingSpeed" : "35.67 MB/s"
+    }, {
+      "indexId" : "ant-imports",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 9,
+      "totalFilesSize" : "10.73 kB",
+      "indexingSpeed" : "1.19 MB/s"
+    }, {
+      "indexId" : "DomFileIndex",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 9,
+      "totalFilesSize" : "10.73 kB",
+      "indexingSpeed" : "1.28 MB/s"
+    }, {
+      "indexId" : "org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 108,
+      "totalFilesSize" : "330.24 kB",
+      "indexingSpeed" : "49.26 MB/s"
+    }, {
+      "indexId" : "IdeaPluginRegistrationIndex",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 9,
+      "totalFilesSize" : "10.73 kB",
+      "indexingSpeed" : "4.81 MB/s"
+    }, {
+      "indexId" : "PluginIdDependenciesIndex",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 9,
+      "totalFilesSize" : "10.73 kB",
+      "indexingSpeed" : "7.87 MB/s"
+    }, {
+      "indexId" : "XsltSymbolIndex",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 9,
+      "totalFilesSize" : "10.73 kB",
+      "indexingSpeed" : "14.24 MB/s"
+    }, {
+      "indexId" : "RelaxSymbolIndex",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 9,
+      "totalFilesSize" : "10.73 kB",
+      "indexingSpeed" : "15.45 MB/s"
+    }, {
+      "indexId" : "xmlProperties",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 9,
+      "totalFilesSize" : "10.73 kB",
+      "indexingSpeed" : "19.35 MB/s"
+    }, {
+      "indexId" : "devkit.ExtensionPointIndex",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 9,
+      "totalFilesSize" : "10.73 kB",
+      "indexingSpeed" : "80.86 MB/s"
+    }, {
+      "indexId" : "PluginIdModuleIndex",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 9,
+      "totalFilesSize" : "10.73 kB",
+      "indexingSpeed" : "85.02 MB/s"
+    } ],
+    "fileProviderStatistics" : [ {
+      "providerName" : "Library 'Gradle: com.nostra13.universalimageloader:universal-image-loader:1.9.5@jar'",
+      "totalNumberOfFiles" : 179,
+      "totalIndexingTime" : "696 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "CLASS",
+        "numberOfFiles" : 108,
+        "totalFilesSize" : "330.24 kB",
+        "partOfTotalIndexingTime" : "73.7%",
+        "partOfTotalContentLoadingTime" : "51.2%"
+      }, {
+        "fileType" : "JAVA",
+        "numberOfFiles" : 69,
+        "totalFilesSize" : "433.72 kB",
+        "partOfTotalIndexingTime" : "25.8%",
+        "partOfTotalContentLoadingTime" : "48.5%"
+      }, {
+        "fileType" : "Manifest",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : "50 B",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "< 1%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "Stubs",
+        "partOfTotalIndexingTime" : "60.9%"
+      }, {
+        "indexId" : "IdIndex",
+        "partOfTotalIndexingTime" : "14.7%"
+      }, {
+        "indexId" : "bytecodeAnalysis",
+        "partOfTotalIndexingTime" : "11.6%"
+      }, {
+        "indexId" : "Trigram.Index",
+        "partOfTotalIndexingTime" : "11.6%"
+      } ],
+      "fastIndexers" : [ "org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex", "org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex" ]
+    }, {
+      "providerName" : "Module 'universal-image-loader.app'",
+      "totalNumberOfFiles" : 16,
+      "totalIndexingTime" : "429 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "XML",
+        "numberOfFiles" : 9,
+        "totalFilesSize" : "10.73 kB",
+        "partOfTotalIndexingTime" : "64.4%",
+        "partOfTotalContentLoadingTime" : "77.0%"
+      }, {
+        "fileType" : "JAVA",
+        "numberOfFiles" : 4,
+        "totalFilesSize" : "6.24 kB",
+        "partOfTotalIndexingTime" : "28.6%",
+        "partOfTotalContentLoadingTime" : "14.7%"
+      }, {
+        "fileType" : "Groovy",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "1.05 kB",
+        "partOfTotalIndexingTime" : "6.8%",
+        "partOfTotalContentLoadingTime" : "< 1%"
+      }, {
+        "fileType" : "GitIgnore file",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "8 B",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "4.5%"
+      }, {
+        "fileType" : "ProGuard File",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "772 B",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "3.6%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "Stubs",
+        "partOfTotalIndexingTime" : "26.7%"
+      }, {
+        "indexId" : "TodoIndex",
+        "partOfTotalIndexingTime" : "21.2%"
+      }, {
+        "indexId" : "Trigram.Index",
+        "partOfTotalIndexingTime" : "9.4%"
+      }, {
+        "indexId" : "fileIncludes",
+        "partOfTotalIndexingTime" : "8.8%"
+      }, {
+        "indexId" : "IdIndex",
+        "partOfTotalIndexingTime" : "8.6%"
+      }, {
+        "indexId" : "com.android.tools.idea.model.AndroidManifestIndex$Companion$NAME$1.NAME",
+        "partOfTotalIndexingTime" : "8.5%"
+      }, {
+        "indexId" : "java.null.method.argument",
+        "partOfTotalIndexingTime" : "3.3%"
+      }, {
+        "indexId" : "java.binary.plus.expression",
+        "partOfTotalIndexingTime" : "3.1%"
+      }, {
+        "indexId" : "FrameworkDetectionIndex",
+        "partOfTotalIndexingTime" : "2.7%"
+      }, {
+        "indexId" : "java.fun.expression",
+        "partOfTotalIndexingTime" : "2.5%"
+      }, {
+        "indexId" : "BindingXmlIndex",
+        "partOfTotalIndexingTime" : "2.4%"
+      }, {
+        "indexId" : "ant-imports",
+        "partOfTotalIndexingTime" : "1.2%"
+      }, {
+        "indexId" : "DomFileIndex",
+        "partOfTotalIndexingTime" : "1.1%"
+      } ],
+      "fastIndexers" : [ "IdeaPluginRegistrationIndex", "PluginIdDependenciesIndex", "PluginIdModuleIndex", "RelaxSymbolIndex", "XsltSymbolIndex", "devkit.ExtensionPointIndex", "xmlProperties" ]
+    }, {
+      "providerName" : "Module 'universal-image-loader'",
+      "totalNumberOfFiles" : 8,
+      "totalIndexingTime" : "35 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "Properties",
+        "numberOfFiles" : 3,
+        "totalFilesSize" : "1.32 kB",
+        "partOfTotalIndexingTime" : "37.4%",
+        "partOfTotalContentLoadingTime" : "67.7%"
+      }, {
+        "fileType" : "GitIgnore file",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "187 B",
+        "partOfTotalIndexingTime" : "26.9%",
+        "partOfTotalContentLoadingTime" : "7.8%"
+      }, {
+        "fileType" : "Groovy",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : "589 B",
+        "partOfTotalIndexingTime" : "20.2%",
+        "partOfTotalContentLoadingTime" : "2.3%"
+      }, {
+        "fileType" : "textmate",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "2.26 kB",
+        "partOfTotalIndexingTime" : "9.8%",
+        "partOfTotalContentLoadingTime" : "8.9%"
+      }, {
+        "fileType" : "Shell Script",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "5.47 kB",
+        "partOfTotalIndexingTime" : "5.7%",
+        "partOfTotalContentLoadingTime" : "13.3%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "Stubs",
+        "partOfTotalIndexingTime" : "45.1%"
+      }, {
+        "indexId" : "TodoIndex",
+        "partOfTotalIndexingTime" : "37.7%"
+      }, {
+        "indexId" : "Trigram.Index",
+        "partOfTotalIndexingTime" : "12.4%"
+      }, {
+        "indexId" : "IdIndex",
+        "partOfTotalIndexingTime" : "4.8%"
+      } ],
+      "fastIndexers" : [ ]
+    } ]
+  }
+}
