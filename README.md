@@ -1,4 +1,4 @@
-![Scheme](images/Rehab.jpg)
+![Scheme](images/Rehab.png)
 An overview of REHAB architecture.
 
 **Plugin Installation:**
