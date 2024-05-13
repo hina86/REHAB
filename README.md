@@ -1,4 +1,4 @@
-![alt text]([http://url/to/img.png](https://github.com/hina86/REHAB/blob/master/images/REHAB.png))
+![Alt text]([http://url/to/img.png](https://github.com/hina86/REHAB/blob/master/images/REHAB.png))
 **An overview of REHAB architecture.**
 
 **Plugin Installation:**
